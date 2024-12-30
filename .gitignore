@@ -1,2 +1,4 @@
 
 token.lua
+deps/discordia-components/
+deps/discordia-interactions/
