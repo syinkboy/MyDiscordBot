@@ -4,7 +4,7 @@ local client = _G.client
 local comps = discordia.Components()
 :button{
     id = 'botinfo',
-    label = 'info!'
+    label = 'info!',
     style = 'danger',
 }
 
