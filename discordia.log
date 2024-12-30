@@ -1,0 +1,340 @@
+2024-12-25 12:03:49 | [INFO]    | Discordia 2.13.0
+2024-12-25 12:03:49 | [INFO]    | Connecting to Discord...
+2024-12-25 12:03:50 | [INFO]    | Authenticated as FSRP Managment bot#2478
+2024-12-25 12:03:50 | [INFO]    | Launching shard 0 (1 out of 1)...
+2024-12-25 12:03:50 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-12-25 12:03:50 | [INFO]    | Shard 0 : Received HELLO
+2024-12-25 12:03:51 | [INFO]    | Shard 0 : Received READY
+2024-12-25 12:08:42 | [INFO]    | Discordia 2.13.0
+2024-12-25 12:08:42 | [INFO]    | Connecting to Discord...
+2024-12-25 12:08:43 | [INFO]    | Authenticated as FSRP Managment bot#2478
+2024-12-25 12:08:43 | [INFO]    | Launching shard 0 (1 out of 1)...
+2024-12-25 12:08:43 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-12-25 12:08:43 | [INFO]    | Shard 0 : Received HELLO
+2024-12-25 12:08:43 | [INFO]    | Shard 0 : Received READY
+2024-12-25 12:13:29 | [INFO]    | Discordia 2.13.0
+2024-12-25 12:13:29 | [INFO]    | Connecting to Discord...
+2024-12-25 12:13:29 | [INFO]    | Authenticated as FSRP Managment bot#2478
+2024-12-25 12:13:29 | [INFO]    | Launching shard 0 (1 out of 1)...
+2024-12-25 12:13:29 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-12-25 12:13:29 | [INFO]    | Shard 0 : Received HELLO
+2024-12-25 12:13:29 | [INFO]    | Shard 0 : Received READY
+2024-12-25 12:16:18 | [INFO]    | Discordia 2.13.0
+2024-12-25 12:16:18 | [INFO]    | Connecting to Discord...
+2024-12-25 12:16:18 | [INFO]    | Authenticated as FSRP Managment bot#2478
+2024-12-25 12:16:18 | [INFO]    | Launching shard 0 (1 out of 1)...
+2024-12-25 12:16:18 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-12-25 12:16:18 | [INFO]    | Shard 0 : Received HELLO
+2024-12-25 12:16:18 | [INFO]    | Shard 0 : Received READY
+2024-12-25 15:05:10 | [INFO]    | Discordia 2.13.0
+2024-12-25 15:05:10 | [INFO]    | Connecting to Discord...
+2024-12-25 15:05:10 | [INFO]    | Authenticated as FSRP Managment bot#2478
+2024-12-25 15:05:11 | [INFO]    | Launching shard 0 (1 out of 1)...
+2024-12-25 15:05:11 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-12-25 15:05:11 | [INFO]    | Shard 0 : Received HELLO
+2024-12-25 15:05:11 | [INFO]    | Shard 0 : Received READY
+2024-12-25 15:13:55 | [INFO]    | Discordia 2.13.0
+2024-12-25 15:13:55 | [INFO]    | Connecting to Discord...
+2024-12-25 15:13:55 | [INFO]    | Authenticated as FSRP Managment bot#2478
+2024-12-25 15:13:55 | [INFO]    | Launching shard 0 (1 out of 1)...
+2024-12-25 15:13:55 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-12-25 15:13:55 | [INFO]    | Shard 0 : Received HELLO
+2024-12-25 15:13:55 | [INFO]    | Shard 0 : Received READY
+2024-12-25 15:18:34 | [INFO]    | Shard 0 : Disconnected
+2024-12-25 15:18:34 | [INFO]    | Shard 0 : Reconnecting after 1096 ms...
+2024-12-25 15:18:36 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-12-25 15:18:36 | [INFO]    | Shard 0 : Received HELLO
+2024-12-25 15:18:36 | [INFO]    | Shard 0 : Received RESUMED
+2024-12-25 15:19:01 | [INFO]    | Discordia 2.13.0
+2024-12-25 15:19:01 | [INFO]    | Connecting to Discord...
+2024-12-25 15:19:01 | [INFO]    | Authenticated as FSRP Managment bot#2478
+2024-12-25 15:19:01 | [INFO]    | Launching shard 0 (1 out of 1)...
+2024-12-25 15:19:02 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-12-25 15:19:02 | [INFO]    | Shard 0 : Received HELLO
+2024-12-25 15:19:02 | [INFO]    | Shard 0 : Received READY
+2024-12-25 15:22:23 | [INFO]    | Discordia 2.13.0
+2024-12-25 15:22:23 | [INFO]    | Connecting to Discord...
+2024-12-25 15:22:23 | [INFO]    | Authenticated as FSRP Managment bot#2478
+2024-12-25 15:22:23 | [INFO]    | Launching shard 0 (1 out of 1)...
+2024-12-25 15:22:23 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-12-25 15:22:23 | [INFO]    | Shard 0 : Received HELLO
+2024-12-25 15:22:24 | [INFO]    | Shard 0 : Received READY
+2024-12-25 15:40:30 | [INFO]    | Discordia 2.13.0
+2024-12-25 15:40:30 | [INFO]    | Connecting to Discord...
+2024-12-25 15:40:31 | [INFO]    | Authenticated as FSRP Managment bot#2478
+2024-12-25 15:40:31 | [INFO]    | Launching shard 0 (1 out of 1)...
+2024-12-25 15:40:31 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-12-25 15:40:31 | [INFO]    | Shard 0 : Received HELLO
+2024-12-25 15:40:32 | [INFO]    | Shard 0 : Received READY
+2024-12-25 15:43:55 | [INFO]    | Discordia 2.13.0
+2024-12-25 15:43:55 | [INFO]    | Connecting to Discord...
+2024-12-25 15:43:55 | [INFO]    | Authenticated as FSRP Managment bot#2478
+2024-12-25 15:43:55 | [INFO]    | Launching shard 0 (1 out of 1)...
+2024-12-25 15:43:56 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-12-25 15:43:56 | [INFO]    | Shard 0 : Received HELLO
+2024-12-25 15:43:56 | [INFO]    | Shard 0 : Received READY
+2024-12-25 15:45:36 | [INFO]    | Discordia 2.13.0
+2024-12-25 15:45:36 | [INFO]    | Connecting to Discord...
+2024-12-25 15:45:36 | [INFO]    | Authenticated as FSRP Managment bot#2478
+2024-12-25 15:45:36 | [INFO]    | Launching shard 0 (1 out of 1)...
+2024-12-25 15:45:36 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-12-25 15:45:36 | [INFO]    | Shard 0 : Received HELLO
+2024-12-25 15:45:36 | [INFO]    | Shard 0 : Received READY
+2024-12-25 15:45:54 | [WARNING] | Shard 0 : Unhandled gateway event: VOICE_CHANNEL_STATUS_UPDATE
+2024-12-25 15:46:12 | [INFO]    | Discordia 2.13.0
+2024-12-25 15:46:12 | [INFO]    | Connecting to Discord...
+2024-12-25 15:46:13 | [INFO]    | Authenticated as FSRP Managment bot#2478
+2024-12-25 15:46:13 | [INFO]    | Launching shard 0 (1 out of 1)...
+2024-12-25 15:46:13 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-12-25 15:46:13 | [INFO]    | Shard 0 : Received HELLO
+2024-12-25 15:46:13 | [INFO]    | Shard 0 : Received READY
+2024-12-25 15:46:31 | [WARNING] | Shard 0 : Unhandled gateway event: VOICE_CHANNEL_STATUS_UPDATE
+2024-12-27 18:04:18 | [INFO]    | Discordia 2.13.0
+2024-12-27 18:04:18 | [INFO]    | Connecting to Discord...
+2024-12-27 18:04:18 | [INFO]    | Authenticated as FSRP Managment bot#2478
+2024-12-27 18:04:19 | [INFO]    | Launching shard 0 (1 out of 1)...
+2024-12-27 18:04:19 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-12-27 18:04:19 | [INFO]    | Shard 0 : Received HELLO
+2024-12-27 18:04:19 | [INFO]    | Shard 0 : Received READY
+2024-12-27 18:05:52 | [INFO]    | Discordia 2.13.0
+2024-12-27 18:05:52 | [INFO]    | Connecting to Discord...
+2024-12-27 18:05:52 | [INFO]    | Authenticated as FSRP Managment bot#2478
+2024-12-27 18:05:52 | [INFO]    | Launching shard 0 (1 out of 1)...
+2024-12-27 18:05:53 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-12-27 18:05:53 | [INFO]    | Shard 0 : Received HELLO
+2024-12-27 18:05:53 | [INFO]    | Shard 0 : Received READY
+2024-12-27 18:10:32 | [INFO]    | Discordia 2.13.0
+2024-12-27 18:10:32 | [INFO]    | Connecting to Discord...
+2024-12-27 18:10:32 | [INFO]    | Authenticated as FSRP Managment bot#2478
+2024-12-27 18:10:32 | [INFO]    | Launching shard 0 (1 out of 1)...
+2024-12-27 18:10:32 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-12-27 18:10:32 | [INFO]    | Shard 0 : Received HELLO
+2024-12-27 18:10:33 | [INFO]    | Shard 0 : Received READY
+2024-12-27 18:13:21 | [INFO]    | Discordia 2.13.0
+2024-12-27 18:13:21 | [INFO]    | Connecting to Discord...
+2024-12-27 18:13:21 | [INFO]    | Authenticated as FSRP Managment bot#2478
+2024-12-27 18:13:21 | [INFO]    | Launching shard 0 (1 out of 1)...
+2024-12-27 18:13:22 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-12-27 18:13:22 | [INFO]    | Shard 0 : Received HELLO
+2024-12-27 18:13:22 | [INFO]    | Shard 0 : Received READY
+2024-12-27 18:22:40 | [INFO]    | Discordia 2.13.0
+2024-12-27 18:22:40 | [INFO]    | Connecting to Discord...
+2024-12-27 18:22:40 | [INFO]    | Authenticated as FSRP Managment bot#2478
+2024-12-27 18:22:40 | [INFO]    | Launching shard 0 (1 out of 1)...
+2024-12-27 18:22:40 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-12-27 18:22:40 | [INFO]    | Shard 0 : Received HELLO
+2024-12-27 18:22:40 | [INFO]    | Shard 0 : Received READY
+2024-12-27 18:22:44 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v8/channels/1300862191255158847/messages
+2024-12-27 18:23:09 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v8/channels/1300862191255158847/messages
+2024-12-27 18:31:36 | [INFO]    | Discordia 2.13.0
+2024-12-27 18:31:36 | [INFO]    | Connecting to Discord...
+2024-12-27 18:31:36 | [INFO]    | Authenticated as FSRP Managment bot#2478
+2024-12-27 18:31:36 | [INFO]    | Launching shard 0 (1 out of 1)...
+2024-12-27 18:31:36 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-12-27 18:31:36 | [INFO]    | Shard 0 : Received HELLO
+2024-12-27 18:31:37 | [INFO]    | Shard 0 : Received READY
+2024-12-27 18:31:42 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v8/channels/1300862191255158847/messages
+2024-12-27 18:33:30 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v8/channels/1300862191255158847/messages
+2024-12-27 18:36:15 | [INFO]    | Discordia 2.13.0
+2024-12-27 18:36:15 | [INFO]    | Connecting to Discord...
+2024-12-27 18:36:15 | [INFO]    | Authenticated as FSRP Managment bot#2478
+2024-12-27 18:36:15 | [INFO]    | Launching shard 0 (1 out of 1)...
+2024-12-27 18:36:15 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-12-27 18:36:15 | [INFO]    | Shard 0 : Received HELLO
+2024-12-27 18:36:15 | [INFO]    | Shard 0 : Received READY
+2024-12-27 20:58:19 | [INFO]    | Discordia 2.13.0
+2024-12-27 20:58:19 | [INFO]    | Connecting to Discord...
+2024-12-27 20:58:20 | [INFO]    | Authenticated as FSRP Managment bot#2478
+2024-12-27 20:58:20 | [INFO]    | Launching shard 0 (1 out of 1)...
+2024-12-27 20:58:20 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-12-27 20:58:20 | [INFO]    | Shard 0 : Received HELLO
+2024-12-27 20:58:21 | [INFO]    | Shard 0 : Received READY
+2024-12-27 21:07:16 | [INFO]    | Discordia 2.13.0
+2024-12-27 21:07:16 | [INFO]    | Connecting to Discord...
+2024-12-27 21:07:17 | [INFO]    | Authenticated as FSRP Managment bot#2478
+2024-12-27 21:07:17 | [INFO]    | Launching shard 0 (1 out of 1)...
+2024-12-27 21:07:17 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-12-27 21:07:17 | [INFO]    | Shard 0 : Received HELLO
+2024-12-27 21:07:17 | [INFO]    | Shard 0 : Received READY
+2024-12-27 21:09:44 | [INFO]    | Discordia 2.13.0
+2024-12-27 21:09:44 | [INFO]    | Connecting to Discord...
+2024-12-27 21:09:45 | [INFO]    | Authenticated as FSRP Managment bot#2478
+2024-12-27 21:09:45 | [INFO]    | Launching shard 0 (1 out of 1)...
+2024-12-27 21:09:45 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-12-27 21:09:45 | [INFO]    | Shard 0 : Received HELLO
+2024-12-27 21:09:45 | [INFO]    | Shard 0 : Received READY
+2024-12-27 21:11:34 | [INFO]    | Discordia 2.13.0
+2024-12-27 21:11:34 | [INFO]    | Connecting to Discord...
+2024-12-27 21:11:35 | [INFO]    | Authenticated as FSRP Managment bot#2478
+2024-12-27 21:11:35 | [INFO]    | Launching shard 0 (1 out of 1)...
+2024-12-27 21:11:35 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-12-27 21:11:35 | [INFO]    | Shard 0 : Received HELLO
+2024-12-27 21:11:35 | [INFO]    | Shard 0 : Received READY
+2024-12-27 21:13:45 | [INFO]    | Discordia 2.13.0
+2024-12-27 21:13:45 | [INFO]    | Connecting to Discord...
+2024-12-27 21:13:45 | [INFO]    | Authenticated as FSRP Managment bot#2478
+2024-12-27 21:13:45 | [INFO]    | Launching shard 0 (1 out of 1)...
+2024-12-27 21:13:45 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-12-27 21:13:45 | [INFO]    | Shard 0 : Received HELLO
+2024-12-27 21:13:45 | [INFO]    | Shard 0 : Received READY
+2024-12-27 21:21:07 | [INFO]    | Discordia 2.13.0
+2024-12-27 21:21:07 | [INFO]    | Connecting to Discord...
+2024-12-27 21:21:08 | [INFO]    | Authenticated as FSRP Managment bot#2478
+2024-12-27 21:21:08 | [INFO]    | Launching shard 0 (1 out of 1)...
+2024-12-27 21:21:08 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-12-27 21:21:08 | [INFO]    | Shard 0 : Received HELLO
+2024-12-27 21:21:08 | [INFO]    | Shard 0 : Received READY
+2024-12-27 21:29:12 | [INFO]    | Discordia 2.13.0
+2024-12-27 21:29:12 | [INFO]    | Connecting to Discord...
+2024-12-27 21:29:12 | [INFO]    | Authenticated as FSRP Managment bot#2478
+2024-12-27 21:29:12 | [INFO]    | Launching shard 0 (1 out of 1)...
+2024-12-27 21:29:13 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-12-27 21:29:13 | [INFO]    | Shard 0 : Received HELLO
+2024-12-27 21:29:13 | [INFO]    | Shard 0 : Received READY
+2024-12-27 21:29:29 | [INFO]    | Discordia 2.13.0
+2024-12-27 21:29:29 | [INFO]    | Connecting to Discord...
+2024-12-27 21:29:30 | [INFO]    | Authenticated as FSRP Managment bot#2478
+2024-12-27 21:29:30 | [INFO]    | Launching shard 0 (1 out of 1)...
+2024-12-27 21:29:30 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-12-27 21:29:30 | [INFO]    | Shard 0 : Received HELLO
+2024-12-27 21:29:30 | [INFO]    | Shard 0 : Received READY
+2024-12-27 21:34:25 | [INFO]    | Discordia 2.13.0
+2024-12-27 21:34:25 | [INFO]    | Connecting to Discord...
+2024-12-27 21:34:25 | [INFO]    | Authenticated as FSRP Managment bot#2478
+2024-12-27 21:34:25 | [INFO]    | Launching shard 0 (1 out of 1)...
+2024-12-27 21:34:25 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-12-27 21:34:25 | [INFO]    | Shard 0 : Received HELLO
+2024-12-27 21:34:25 | [INFO]    | Shard 0 : Received READY
+2024-12-27 21:35:46 | [INFO]    | Discordia 2.13.0
+2024-12-27 21:35:46 | [INFO]    | Connecting to Discord...
+2024-12-27 21:35:47 | [INFO]    | Authenticated as FSRP Managment bot#2478
+2024-12-27 21:35:47 | [INFO]    | Launching shard 0 (1 out of 1)...
+2024-12-27 21:35:47 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-12-27 21:35:47 | [INFO]    | Shard 0 : Received HELLO
+2024-12-27 21:35:47 | [INFO]    | Shard 0 : Received READY
+2024-12-27 21:37:33 | [INFO]    | Discordia 2.13.0
+2024-12-27 21:37:33 | [INFO]    | Connecting to Discord...
+2024-12-27 21:37:33 | [INFO]    | Authenticated as FSRP Managment bot#2478
+2024-12-27 21:37:33 | [INFO]    | Launching shard 0 (1 out of 1)...
+2024-12-27 21:37:34 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-12-27 21:37:34 | [INFO]    | Shard 0 : Received HELLO
+2024-12-27 21:37:34 | [INFO]    | Shard 0 : Received READY
+2024-12-27 21:50:49 | [INFO]    | Discordia 2.13.0
+2024-12-27 21:50:49 | [INFO]    | Connecting to Discord...
+2024-12-27 21:50:50 | [INFO]    | Authenticated as FSRP Managment bot#2478
+2024-12-27 21:50:50 | [INFO]    | Launching shard 0 (1 out of 1)...
+2024-12-27 21:50:50 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-12-27 21:50:50 | [INFO]    | Shard 0 : Received HELLO
+2024-12-27 21:50:50 | [INFO]    | Shard 0 : Received READY
+2024-12-27 23:41:19 | [INFO]    | Discordia 2.13.0
+2024-12-27 23:41:19 | [INFO]    | Connecting to Discord...
+2024-12-27 23:41:20 | [INFO]    | Authenticated as FSRP Managment bot#2478
+2024-12-27 23:41:20 | [INFO]    | Launching shard 0 (1 out of 1)...
+2024-12-27 23:41:20 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-12-27 23:41:20 | [INFO]    | Shard 0 : Received HELLO
+2024-12-27 23:41:20 | [INFO]    | Shard 0 : Received READY
+2024-12-27 23:43:51 | [INFO]    | Discordia 2.13.0
+2024-12-27 23:43:51 | [INFO]    | Connecting to Discord...
+2024-12-27 23:43:52 | [INFO]    | Authenticated as FSRP Managment bot#2478
+2024-12-27 23:43:52 | [INFO]    | Launching shard 0 (1 out of 1)...
+2024-12-27 23:43:52 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-12-27 23:43:52 | [INFO]    | Shard 0 : Received HELLO
+2024-12-27 23:43:52 | [INFO]    | Shard 0 : Received READY
+2024-12-27 23:44:32 | [INFO]    | Discordia 2.13.0
+2024-12-27 23:44:32 | [INFO]    | Connecting to Discord...
+2024-12-27 23:44:33 | [INFO]    | Authenticated as FSRP Managment bot#2478
+2024-12-27 23:44:33 | [INFO]    | Launching shard 0 (1 out of 1)...
+2024-12-27 23:44:33 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-12-27 23:44:33 | [INFO]    | Shard 0 : Received HELLO
+2024-12-27 23:44:33 | [INFO]    | Shard 0 : Received READY
+2024-12-28 10:52:33 | [INFO]    | Discordia 2.13.0
+2024-12-28 10:52:33 | [INFO]    | Connecting to Discord...
+2024-12-28 10:52:33 | [INFO]    | Authenticated as FSRP Managment bot#2478
+2024-12-28 10:52:34 | [INFO]    | Launching shard 0 (1 out of 1)...
+2024-12-28 10:52:34 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-12-28 10:52:34 | [INFO]    | Shard 0 : Received HELLO
+2024-12-28 10:52:34 | [INFO]    | Shard 0 : Received READY
+2024-12-28 13:22:51 | [INFO]    | Discordia 2.13.0
+2024-12-28 13:22:51 | [INFO]    | Connecting to Discord...
+2024-12-28 13:22:51 | [INFO]    | Authenticated as FSRP Managment bot#2478
+2024-12-28 13:22:52 | [INFO]    | Launching shard 0 (1 out of 1)...
+2024-12-28 13:22:52 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-12-28 13:22:52 | [INFO]    | Shard 0 : Received HELLO
+2024-12-28 13:22:52 | [INFO]    | Shard 0 : Received READY
+2024-12-28 13:24:27 | [INFO]    | Discordia 2.13.0
+2024-12-28 13:24:27 | [INFO]    | Connecting to Discord...
+2024-12-28 13:24:27 | [INFO]    | Authenticated as FSRP Managment bot#2478
+2024-12-28 13:24:27 | [INFO]    | Launching shard 0 (1 out of 1)...
+2024-12-28 13:24:27 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-12-28 13:24:27 | [INFO]    | Shard 0 : Received HELLO
+2024-12-28 13:24:27 | [INFO]    | Shard 0 : Received READY
+2024-12-28 13:25:35 | [INFO]    | Discordia 2.13.0
+2024-12-28 13:25:35 | [INFO]    | Connecting to Discord...
+2024-12-28 13:25:35 | [INFO]    | Authenticated as FSRP Managment bot#2478
+2024-12-28 13:25:35 | [INFO]    | Launching shard 0 (1 out of 1)...
+2024-12-28 13:25:35 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-12-28 13:25:35 | [INFO]    | Shard 0 : Received HELLO
+2024-12-28 13:25:36 | [INFO]    | Shard 0 : Received READY
+2024-12-28 13:30:00 | [INFO]    | Discordia 2.13.0
+2024-12-28 13:30:00 | [INFO]    | Connecting to Discord...
+2024-12-28 13:30:00 | [INFO]    | Authenticated as FSRP Managment bot#2478
+2024-12-28 13:30:00 | [INFO]    | Launching shard 0 (1 out of 1)...
+2024-12-28 13:30:00 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-12-28 13:30:00 | [INFO]    | Shard 0 : Received HELLO
+2024-12-28 13:30:01 | [INFO]    | Shard 0 : Received READY
+2024-12-28 13:30:58 | [INFO]    | Discordia 2.13.0
+2024-12-28 13:30:58 | [INFO]    | Connecting to Discord...
+2024-12-28 13:30:58 | [INFO]    | Authenticated as FSRP Managment bot#2478
+2024-12-28 13:30:58 | [INFO]    | Launching shard 0 (1 out of 1)...
+2024-12-28 13:30:59 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-12-28 13:30:59 | [INFO]    | Shard 0 : Received HELLO
+2024-12-28 13:30:59 | [INFO]    | Shard 0 : Received READY
+2024-12-28 13:35:53 | [INFO]    | Discordia 2.13.0
+2024-12-28 13:35:53 | [INFO]    | Connecting to Discord...
+2024-12-28 13:35:53 | [INFO]    | Authenticated as FSRP Managment bot#2478
+2024-12-28 13:35:53 | [INFO]    | Launching shard 0 (1 out of 1)...
+2024-12-28 13:35:53 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-12-28 13:35:53 | [INFO]    | Shard 0 : Received HELLO
+2024-12-28 13:35:54 | [INFO]    | Shard 0 : Received READY
+2024-12-29 15:43:00 | [INFO]    | Discordia 2.13.0
+2024-12-29 15:43:00 | [INFO]    | Connecting to Discord...
+2024-12-29 15:43:00 | [INFO]    | Authenticated as FSRP Managment bot#2478
+2024-12-29 15:43:01 | [INFO]    | Launching shard 0 (1 out of 1)...
+2024-12-29 15:43:01 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-12-29 15:43:01 | [INFO]    | Shard 0 : Received HELLO
+2024-12-29 15:43:01 | [INFO]    | Shard 0 : Received READY
+2024-12-30 17:16:47 | [INFO]    | Discordia 2.13.0
+2024-12-30 17:16:47 | [INFO]    | Connecting to Discord...
+2024-12-30 17:16:48 | [INFO]    | Authenticated as FSRP Managment bot#2478
+2024-12-30 17:16:48 | [INFO]    | Launching shard 0 (1 out of 1)...
+2024-12-30 17:16:48 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-12-30 17:16:48 | [INFO]    | Shard 0 : Received HELLO
+2024-12-30 17:16:49 | [INFO]    | Shard 0 : Received READY
+2024-12-30 17:19:56 | [INFO]    | Discordia 2.13.0
+2024-12-30 17:19:56 | [INFO]    | Connecting to Discord...
+2024-12-30 17:19:56 | [INFO]    | Authenticated as FSRP Managment bot#2478
+2024-12-30 17:19:56 | [INFO]    | Launching shard 0 (1 out of 1)...
+2024-12-30 17:19:56 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-12-30 17:19:56 | [INFO]    | Shard 0 : Received HELLO
+2024-12-30 17:19:57 | [INFO]    | Shard 0 : Received READY
+2024-12-30 18:41:50 | [INFO]    | Discordia 2.13.0
+2024-12-30 18:41:50 | [INFO]    | Connecting to Discord...
+2024-12-30 18:41:50 | [INFO]    | Authenticated as FSRP Managment bot#2478
+2024-12-30 18:41:51 | [INFO]    | Launching shard 0 (1 out of 1)...
+2024-12-30 18:41:51 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-12-30 18:41:51 | [INFO]    | Shard 0 : Received HELLO
+2024-12-30 18:41:52 | [INFO]    | Shard 0 : Received READY
+2024-12-30 18:44:09 | [INFO]    | Discordia 2.13.0
+2024-12-30 18:44:09 | [INFO]    | Connecting to Discord...
+2024-12-30 18:44:10 | [INFO]    | Authenticated as FSRP Managment bot#2478
+2024-12-30 18:44:10 | [INFO]    | Launching shard 0 (1 out of 1)...
+2024-12-30 18:44:10 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-12-30 18:44:10 | [INFO]    | Shard 0 : Received HELLO
+2024-12-30 18:44:10 | [INFO]    | Shard 0 : Received READY
+2024-12-30 18:48:07 | [INFO]    | Discordia 2.13.0
+2024-12-30 18:48:07 | [INFO]    | Connecting to Discord...
+2024-12-30 18:48:07 | [INFO]    | Authenticated as FSRP Managment bot#2478
+2024-12-30 18:48:07 | [INFO]    | Launching shard 0 (1 out of 1)...
+2024-12-30 18:48:07 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-12-30 18:48:07 | [INFO]    | Shard 0 : Received HELLO
+2024-12-30 18:48:07 | [INFO]    | Shard 0 : Received READY
