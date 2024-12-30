@@ -2,7 +2,7 @@
 local discordia = _G.discordia
 local client = _G.client 
 
-local comps = discordia.components()
+local comps = discordia.Components()
 :button{
     id = 'Bobbi you suck',
     label = 'Bobbi!',

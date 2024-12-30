@@ -86,4 +86,5 @@ client:on('messageCreate', function(message) -- Now we go to handling the comman
     end
 end)
 
-client:run('Bot MTMyMTQyNzk1NTAwNzg4MTI0Ng.GOan20.LoMUXaeYazHi1v8HFc15XrMAK2HVNkZdliWc6w')
+local token = require("token")
+client:run("Bot " .. token)

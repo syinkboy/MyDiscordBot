@@ -338,3 +338,28 @@
 2024-12-30 18:48:07 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
 2024-12-30 18:48:07 | [INFO]    | Shard 0 : Received HELLO
 2024-12-30 18:48:07 | [INFO]    | Shard 0 : Received READY
+2024-12-30 20:52:44 | [INFO]    | Discordia 2.13.0
+2024-12-30 20:52:44 | [INFO]    | Connecting to Discord...
+2024-12-30 20:52:44 | [ERROR]   | 401 - Unauthorized : GET https://discord.com/api/v8/users/@me
+2024-12-30 20:52:44 | [ERROR]   | Could not authenticate, check token: HTTP Error 0 : 401: Unauthorized
+2024-12-30 20:53:54 | [INFO]    | Discordia 2.13.0
+2024-12-30 20:53:54 | [INFO]    | Connecting to Discord...
+2024-12-30 20:53:54 | [INFO]    | Authenticated as FSRP Managment bot#2478
+2024-12-30 20:53:55 | [INFO]    | Launching shard 0 (1 out of 1)...
+2024-12-30 20:53:55 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-12-30 20:53:55 | [INFO]    | Shard 0 : Received HELLO
+2024-12-30 20:53:55 | [INFO]    | Shard 0 : Received READY
+2024-12-30 20:58:01 | [INFO]    | Discordia 2.13.0
+2024-12-30 20:58:01 | [INFO]    | Connecting to Discord...
+2024-12-30 20:58:01 | [INFO]    | Authenticated as FSRP Managment bot#2478
+2024-12-30 20:58:01 | [INFO]    | Launching shard 0 (1 out of 1)...
+2024-12-30 20:58:01 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-12-30 20:58:01 | [INFO]    | Shard 0 : Received HELLO
+2024-12-30 20:58:01 | [INFO]    | Shard 0 : Received READY
+2024-12-30 21:00:01 | [INFO]    | Discordia 2.13.0
+2024-12-30 21:00:01 | [INFO]    | Connecting to Discord...
+2024-12-30 21:00:01 | [INFO]    | Authenticated as FSRP Managment bot#2478
+2024-12-30 21:00:01 | [INFO]    | Launching shard 0 (1 out of 1)...
+2024-12-30 21:00:01 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-12-30 21:00:01 | [INFO]    | Shard 0 : Received HELLO
+2024-12-30 21:00:02 | [INFO]    | Shard 0 : Received READY
