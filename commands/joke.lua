@@ -14,6 +14,7 @@ return {
             "Why don't skeletons fight each other? They don't have the guts.",
             "Why did the bicycle fall over? It was two-tired!",
             "What do you call fake spaghetti? An impasta!"
+            'Why did troptop fell down the stairs? he turned into a potart!'
         }
 
         -- Pick a random joke
