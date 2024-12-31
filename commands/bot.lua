@@ -7,6 +7,11 @@ local comps = discordia.Components()
     label = 'info!',
     style = 'danger',
 }
+:button{
+    id = 'button2',
+    label = 'button!',
+    style = 'danger',
+}
 
 return {
     name = 'bot',
