@@ -86,5 +86,28 @@ client:on('messageCreate', function(message) -- Now we go to handling the comman
     end
 end)
 
-local token = require("token")
+client:on("memberJoin", function(member) -- Whenever someone joins any server the bot is in, this event is called
+  -- It's just like messageCreate
+      local guild = member.guild -- Let's look at the wiki page
+      -- Here we can see that the object member includes the guild (the server) that this member stands for
+      -- A member object is different from a user object
+      -- A user object is the global information about a user
+      -- But a member object is for a specific server, so it includes information such as their roles in that server
+      if not guild then -- Always make sure all information we need is there, otherwise it might crash your bot
+        return print("no guild")
+      end
+  
+      local systemChannel = guild.systemChannel -- The system channel is the channel where built-in discord join messages are send
+      -- Let me show you in the server settings
+      if not systemChannel then
+        return print("no systemchannel")
+      end
+  
+      systemChannel:send("👋 Welcome " .. member.user.mentionString .. " to **" .. guild.name .. "!**") -- And here we send a simple message
+      -- We can access the user which has quick access to pinging the user
+      -- Let's try adding it to your bot
+      -- Screenshare and open visual studio code
+  end)
+
+  local token = require("token")
 client:run("Bot " .. token)
