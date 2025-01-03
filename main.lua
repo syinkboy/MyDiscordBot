@@ -9,9 +9,11 @@ local client = discordia.Client { -- the client
 }
 
 client:enableAllIntents()
-_G.client = client -- so that all the commands can use them
--- You define a global command with _G.{varname}
--- You can get it anywhere you want with local {varname} = _G.{varname}
+_G.client = client 
+
+local erlua = require("erlua")
+erlua:SetServerKey("sdkZidEzbL-cyDXJyyoAcNIghKZPnLnzCUcyIDQSPHZejuVCpLY")
+_G.erlua = erlua
 
 local fs = require('fs') -- This module allows us to get information about files, we will use it to get all the files in the commands folder
 _G.fs = fs
