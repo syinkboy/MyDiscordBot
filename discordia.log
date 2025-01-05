@@ -489,3 +489,10 @@
 2025-01-03 17:41:08 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
 2025-01-03 17:41:08 | [INFO]    | Shard 0 : Received HELLO
 2025-01-03 17:41:08 | [INFO]    | Shard 0 : Received READY
+2025-01-04 22:50:40 | [INFO]    | Discordia 2.13.0
+2025-01-04 22:50:40 | [INFO]    | Connecting to Discord...
+2025-01-04 22:50:41 | [INFO]    | Authenticated as FSRP Managment bot#2478
+2025-01-04 22:50:42 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-01-04 22:50:43 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-01-04 22:50:43 | [INFO]    | Shard 0 : Received HELLO
+2025-01-04 22:50:43 | [INFO]    | Shard 0 : Received READY
