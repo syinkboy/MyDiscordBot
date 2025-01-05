@@ -4,11 +4,11 @@ local client = _G.client
 
 return {
     name = 'embed2',
-    description = function = 'lola',
-        callback = function(message, args)
+    description = 'lola',
+    callback = function(message, args)
             local embed = {
                 title = "Welcome to " .. message.guild.name .. "!",
-                description = 'We got an amazing team for our amazing server here, we are proud to have you all here.',
+                description = 'We have an amazing team working day in and day out on ' .. message.guild.name .. '!',
                 color = 0x3498db, 
                 footer = {
                     text = 'Footer Test',
@@ -24,6 +24,7 @@ return {
             }
 
             message.channel:send({
+                embed = embed 
 
             })
         end
