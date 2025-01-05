@@ -8,7 +8,7 @@ return {
         callback = function(message, args)
             local embed = {
                 title = "Welcome to " .. message.guild.name .. "!",
-                description = 'We have an amazing team working day in and day out on ' .. message.guild.name .. '!',
+                description = 'We got an amazing team for our amazing server here, we are proud to have you all here.',
                 color = 0x3498db, 
                 footer = {
                     text = 'Footer Test',
