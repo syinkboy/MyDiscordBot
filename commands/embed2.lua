@@ -4,7 +4,6 @@ local client = _G.client
 --[ Authorized User --]
 local authorizedUserID = "995664658038005772"
 
-local member = message.member
 
 local invalidPermsEmbed = {
     title = "<:WarningRed:1326148101534253107> **Invalid Permission!**",
