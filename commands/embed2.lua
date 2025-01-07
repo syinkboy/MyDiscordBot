@@ -14,7 +14,7 @@ return {
                     text = 'Footer Test',
                 },
                 author = {
-                    name = 'Author name',
+                    name = message.author.username,
                     url = 'https://example.com'
                 },
                 fields = {
