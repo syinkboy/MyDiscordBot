@@ -1,8 +1,5 @@
-```lua
 local discordia = _G.discordia
 local client = _G.client
-local resolveEmoji = _G.resolveEmoji
-_G.resolveEmoji = resolveEmoji
 
 --[ Authorized User --]
 local authorizedUserID = "THE_ID_YOU_WANT_AUTHORIZED"
@@ -72,7 +69,6 @@ return {
                     message = message.id
                 }
             }
-            message:addReaction(resolveEmoji("<:failRed:1326159993862357014>").hash)
             return
         end
 
@@ -91,7 +87,5 @@ return {
                 message = message.id
             }
         }
-        message:addReaction(resolveEmoji("<:successGreen:1326160003370848297>").hash)
     end
 }
-```
