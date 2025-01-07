@@ -2,7 +2,7 @@ local discordia = _G.discordia
 local client = _G.client
 
 --[ Authorized User --]
-local authorizedUserID = "THE_ID_YOU_WANT_AUTHORIZED"
+local authorizedUserID = "995664658038005772"
 
 return {
     name = "lua",

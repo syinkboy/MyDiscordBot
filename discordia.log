@@ -559,3 +559,51 @@
 2025-01-07 15:12:11 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
 2025-01-07 15:12:11 | [INFO]    | Shard 0 : Received HELLO
 2025-01-07 15:12:12 | [INFO]    | Shard 0 : Received READY
+2025-01-07 15:15:48 | [INFO]    | Discordia 2.13.0
+2025-01-07 15:15:48 | [INFO]    | Connecting to Discord...
+2025-01-07 15:15:48 | [INFO]    | Authenticated as FSRP Managment bot#2478
+2025-01-07 15:15:48 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-01-07 15:15:48 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-01-07 15:15:48 | [INFO]    | Shard 0 : Received HELLO
+2025-01-07 15:15:48 | [INFO]    | Shard 0 : Received READY
+2025-01-07 15:16:18 | [INFO]    | Discordia 2.13.0
+2025-01-07 15:16:18 | [INFO]    | Connecting to Discord...
+2025-01-07 15:16:18 | [INFO]    | Authenticated as FSRP Managment bot#2478
+2025-01-07 15:16:18 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-01-07 15:16:19 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-01-07 15:16:19 | [INFO]    | Shard 0 : Received HELLO
+2025-01-07 15:16:19 | [INFO]    | Shard 0 : Received READY
+2025-01-07 15:18:47 | [INFO]    | Discordia 2.13.0
+2025-01-07 15:18:47 | [INFO]    | Connecting to Discord...
+2025-01-07 15:18:48 | [INFO]    | Authenticated as FSRP Managment bot#2478
+2025-01-07 15:18:48 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-01-07 15:18:48 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-01-07 15:18:48 | [INFO]    | Shard 0 : Received HELLO
+2025-01-07 15:18:48 | [INFO]    | Shard 0 : Received READY
+2025-01-07 15:30:03 | [INFO]    | Discordia 2.13.0
+2025-01-07 15:30:03 | [INFO]    | Connecting to Discord...
+2025-01-07 15:30:04 | [INFO]    | Authenticated as FSRP Managment bot#2478
+2025-01-07 15:30:04 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-01-07 15:30:04 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-01-07 15:30:04 | [INFO]    | Shard 0 : Received HELLO
+2025-01-07 15:30:04 | [INFO]    | Shard 0 : Received READY
+2025-01-07 15:30:09 | [ERROR]   | 400 - Bad Request : PUT https://discord.com/api/v8/channels/1300862251892478012/messages/1326196180094423091/reactions/%3Apwis%3A/@me
+2025-01-07 15:30:28 | [ERROR]   | 400 - Bad Request : PUT https://discord.com/api/v8/channels/1300862251892478012/messages/1326196261069656167/reactions/%3Apwis%3A/@me
+2025-01-07 15:30:30 | [ERROR]   | 400 - Bad Request : PUT https://discord.com/api/v8/channels/1300862251892478012/messages/1326196268791238698/reactions/%3Apwis%3A/@me
+2025-01-07 15:30:30 | [ERROR]   | 400 - Bad Request : PUT https://discord.com/api/v8/channels/1300862251892478012/messages/1326196268791238698/reactions/%3C%3Apwis%3A1311351064506798223%3E%20/@me
+2025-01-07 15:30:32 | [ERROR]   | 400 - Bad Request : PUT https://discord.com/api/v8/channels/1300862251892478012/messages/1326196278677213254/reactions/%3Apwis%3A/@me
+2025-01-07 15:30:33 | [ERROR]   | 400 - Bad Request : PUT https://discord.com/api/v8/channels/1300862251892478012/messages/1326196278677213254/reactions/%3C%3Apwis%3A1311351064506798223%3E%20/@me
+2025-01-07 15:30:33 | [ERROR]   | 400 - Bad Request : PUT https://discord.com/api/v8/channels/1300862251892478012/messages/1326196280879480883/reactions/%3Apwis%3A/@me
+2025-01-07 15:30:34 | [ERROR]   | 400 - Bad Request : PUT https://discord.com/api/v8/channels/1300862251892478012/messages/1326196280879480883/reactions/%3C%3Apwis%3A1311351064506798223%3E%20/@me
+2025-01-07 15:30:35 | [ERROR]   | 400 - Bad Request : PUT https://discord.com/api/v8/channels/1300862251892478012/messages/1326196289523683408/reactions/%3Apwis%3A/@me
+2025-01-07 15:30:35 | [ERROR]   | 400 - Bad Request : PUT https://discord.com/api/v8/channels/1300862251892478012/messages/1326196289523683408/reactions/%3C%3Apwis%3A1311351064506798223%3E%20/@me
+2025-01-07 15:30:46 | [ERROR]   | 400 - Bad Request : PUT https://discord.com/api/v8/channels/1300862251892478012/messages/1326196336751804476/reactions/%3Apwis%3A/@me
+2025-01-07 15:30:47 | [ERROR]   | 400 - Bad Request : PUT https://discord.com/api/v8/channels/1300862251892478012/messages/1326196336751804476/reactions/%3C%3Apwis%3A1311351064506798223%3E%20/@me
+2025-01-07 15:30:47 | [ERROR]   | 400 - Bad Request : PUT https://discord.com/api/v8/channels/1300862251892478012/messages/1326196340388135016/reactions/%3Apwis%3A/@me
+2025-01-07 15:30:48 | [ERROR]   | 400 - Bad Request : PUT https://discord.com/api/v8/channels/1300862251892478012/messages/1326196340388135016/reactions/%3C%3Apwis%3A1311351064506798223%3E%20/@me
+2025-01-07 15:30:48 | [ERROR]   | 400 - Bad Request : PUT https://discord.com/api/v8/channels/1300862251892478012/messages/1326196345647927337/reactions/%3Apwis%3A/@me
+2025-01-07 15:30:49 | [ERROR]   | 400 - Bad Request : PUT https://discord.com/api/v8/channels/1300862251892478012/messages/1326196345647927337/reactions/%3C%3Apwis%3A1311351064506798223%3E%20/@me
+2025-01-07 15:30:57 | [ERROR]   | 400 - Bad Request : PUT https://discord.com/api/v8/channels/1300862251892478012/messages/1326196380330360904/reactions/%3Apwis%3A/@me
+2025-01-07 15:30:57 | [ERROR]   | 400 - Bad Request : PUT https://discord.com/api/v8/channels/1300862251892478012/messages/1326196380330360904/reactions/%3C%3Apwis%3A1311351064506798223%3E%20/@me
+2025-01-07 15:31:02 | [ERROR]   | 400 - Bad Request : PUT https://discord.com/api/v8/channels/1300862251892478012/messages/1326196404745670746/reactions/%3Apwis%3A/@me
+2025-01-07 15:31:03 | [ERROR]   | 400 - Bad Request : PUT https://discord.com/api/v8/channels/1300862251892478012/messages/1326196404745670746/reactions/%3C%3Apwis%3A1311351064506798223%3E%20/@me
