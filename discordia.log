@@ -607,3 +607,10 @@
 2025-01-07 15:30:57 | [ERROR]   | 400 - Bad Request : PUT https://discord.com/api/v8/channels/1300862251892478012/messages/1326196380330360904/reactions/%3C%3Apwis%3A1311351064506798223%3E%20/@me
 2025-01-07 15:31:02 | [ERROR]   | 400 - Bad Request : PUT https://discord.com/api/v8/channels/1300862251892478012/messages/1326196404745670746/reactions/%3Apwis%3A/@me
 2025-01-07 15:31:03 | [ERROR]   | 400 - Bad Request : PUT https://discord.com/api/v8/channels/1300862251892478012/messages/1326196404745670746/reactions/%3C%3Apwis%3A1311351064506798223%3E%20/@me
+2025-01-07 15:45:43 | [INFO]    | Discordia 2.13.0
+2025-01-07 15:45:43 | [INFO]    | Connecting to Discord...
+2025-01-07 15:45:43 | [INFO]    | Authenticated as FSRP Managment bot#2478
+2025-01-07 15:45:43 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-01-07 15:45:44 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-01-07 15:45:44 | [INFO]    | Shard 0 : Received HELLO
+2025-01-07 15:45:44 | [INFO]    | Shard 0 : Received READY
