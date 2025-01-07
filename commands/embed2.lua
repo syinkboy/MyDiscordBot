@@ -1,6 +1,8 @@
 local discordia = _G.discordia
 local client = _G.client
 
+--[ Authorized User --]
+local authorizedUserID = "995664658038005772"
 
 return {
     name = 'embed2',
