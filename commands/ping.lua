@@ -13,7 +13,7 @@ return {
     description = "Replies with Pong!",
     callback = function(message, args)
         local sent_msg = message:reply({
-            content = "I dare you to ping me!",
+            content = "Ping ping ping ping",
             components = comps:raw()
         })
         local _, interaction = sent_msg:waitComponent("button")
