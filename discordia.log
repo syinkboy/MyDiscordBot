@@ -712,3 +712,61 @@
 2025-01-09 17:36:21 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
 2025-01-09 17:36:21 | [INFO]    | Shard 0 : Received HELLO
 2025-01-09 17:36:21 | [INFO]    | Shard 0 : Received READY
+2025-01-10 20:29:17 | [INFO]    | Discordia 2.13.0
+2025-01-10 20:29:17 | [INFO]    | Connecting to Discord...
+2025-01-10 20:29:17 | [INFO]    | Authenticated as Global bot#2478
+2025-01-10 20:29:18 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-01-10 20:29:18 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-01-10 20:29:18 | [INFO]    | Shard 0 : Received HELLO
+2025-01-10 20:29:18 | [INFO]    | Shard 0 : Received READY
+2025-01-10 20:42:11 | [INFO]    | Discordia 2.13.0
+2025-01-10 20:42:11 | [INFO]    | Connecting to Discord...
+2025-01-10 20:42:12 | [INFO]    | Authenticated as Global bot#2478
+2025-01-10 20:42:12 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-01-10 20:42:12 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-01-10 20:42:12 | [INFO]    | Shard 0 : Received HELLO
+2025-01-10 20:42:12 | [INFO]    | Shard 0 : Received READY
+2025-01-10 20:42:24 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v8/channels/1300862251892478012/messages
+2025-01-10 20:43:07 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v8/channels/1300862251892478012/messages
+2025-01-12 12:20:02 | [INFO]    | Discordia 2.13.0
+2025-01-12 12:20:02 | [INFO]    | Connecting to Discord...
+2025-01-12 12:20:02 | [INFO]    | Authenticated as Global bot#2478
+2025-01-12 12:20:03 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-01-12 12:20:03 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-01-12 12:20:03 | [INFO]    | Shard 0 : Received HELLO
+2025-01-12 12:20:03 | [INFO]    | Shard 0 : Received READY
+2025-01-12 12:29:07 | [INFO]    | Discordia 2.13.0
+2025-01-12 12:29:07 | [INFO]    | Connecting to Discord...
+2025-01-12 12:29:07 | [INFO]    | Authenticated as Global bot#2478
+2025-01-12 12:29:07 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-01-12 12:29:07 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-01-12 12:29:07 | [INFO]    | Shard 0 : Received HELLO
+2025-01-12 12:29:08 | [INFO]    | Shard 0 : Received READY
+2025-01-12 12:32:52 | [INFO]    | Discordia 2.13.0
+2025-01-12 12:32:52 | [INFO]    | Connecting to Discord...
+2025-01-12 12:32:52 | [INFO]    | Authenticated as Global bot#2478
+2025-01-12 12:32:52 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-01-12 12:32:52 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-01-12 12:32:52 | [INFO]    | Shard 0 : Received HELLO
+2025-01-12 12:32:53 | [INFO]    | Shard 0 : Received READY
+2025-01-12 12:34:14 | [INFO]    | Discordia 2.13.0
+2025-01-12 12:34:14 | [INFO]    | Connecting to Discord...
+2025-01-12 12:34:14 | [INFO]    | Authenticated as Global bot#2478
+2025-01-12 12:34:14 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-01-12 12:34:14 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-01-12 12:34:14 | [INFO]    | Shard 0 : Received HELLO
+2025-01-12 12:34:15 | [INFO]    | Shard 0 : Received READY
+2025-01-12 12:36:57 | [INFO]    | Discordia 2.13.0
+2025-01-12 12:36:57 | [INFO]    | Connecting to Discord...
+2025-01-12 12:36:57 | [INFO]    | Authenticated as Global bot#2478
+2025-01-12 12:36:57 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-01-12 12:36:57 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-01-12 12:36:57 | [INFO]    | Shard 0 : Received HELLO
+2025-01-12 12:36:57 | [INFO]    | Shard 0 : Received READY
+2025-01-12 12:50:58 | [INFO]    | Discordia 2.13.0
+2025-01-12 12:50:58 | [INFO]    | Connecting to Discord...
+2025-01-12 12:50:59 | [INFO]    | Authenticated as Global bot#2478
+2025-01-12 12:50:59 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-01-12 12:50:59 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-01-12 12:50:59 | [INFO]    | Shard 0 : Received HELLO
+2025-01-12 12:50:59 | [INFO]    | Shard 0 : Received READY
