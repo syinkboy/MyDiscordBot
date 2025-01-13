@@ -1,33 +1,47 @@
 local discordia = _G.discordia
 local client = _G.client
-require("discordia-components") -- Required for component handling
 
-local selectMenu = {
-    type = 3, -- Type 3 is a select menu
-    custom_id = "example_select_menu",
-    placeholder = "Choose an option...", -- Placeholder text
-    options = { -- Define the options
+-- Define the select menu using a plain Lua table
+local compsMenu = {
+    type = 1, -- Action Row
+    components = {
         {
-            label = "Option 1",
-            value = "option1",
-            description = "This is the first option",
-            emoji = {name = ":exclamation:"}
-        },
-        {
-            label = "Option 2",
-            value = "option2",
-            description = "This is the second option",
-            emoji = {name = ":question:"}
-        },
-        {
-            label = "Option 3",
-            value = "option3",
-            description = "This is the third option",
-            emoji = {name = ":balloon:"}
+            type = 3, -- Select Menu
+            custom_id = "example_select_menu",
+            placeholder = "testingsigma...",
+            min_values = 1,
+            max_values = 1,
+            options = {
+                {
+                    label = "Option 1",
+                    value = "option_1",
+                    emoji = { id = "1327300914700091393", name = "Discord" }
+                },
+                {
+                    label = "Option 2",
+                    value = "option_2",
+                    emoji = { id = "1320083954275057805", name = "KSRP" }
+                }
+            }
         }
     }
 }
 
+-- Event listener for interactionCreate
+client:on("interactionCreate", function(selectInteraction)
+    if selectInteraction.type == 3 and selectInteraction.data.custom_id == "example_select_menu" then
+        -- Get the selected value
+        local selectedValue = selectInteraction.data.values[1]
+
+        -- Reply to the user with their selection
+        selectInteraction:reply({
+            content = "You selected: " .. selectedValue,
+            ephemeral = true -- Reply is only visible to the user
+        })
+    end
+end)
+
+-- Return the command
 return {
     name = "select",
     description = "Select Menu",
@@ -35,26 +49,7 @@ return {
         -- Reply with a message containing the select menu
         interaction:reply({
             content = "Choose an option from the menu below:",
-            components = {
-                {
-                    type = 1, -- Action row
-                    components = {selectMenu}
-                }
-            }
+            components = {compsMenu} -- Use the plain Lua table here
         })
-
-        -- Listen for interactions with the select menu
-        client:on("interactionCreate", function(selectInteraction)
-            if selectInteraction.type == 3 and selectInteraction.data.custom_id == "example_select_menu" then
-                -- Get the selected value
-                local selectedValue = selectInteraction.data.values[1]
-
-                -- Reply to the user with their selection
-                selectInteraction:reply({
-                    content = "You selected: " .. selectedValue,
-                    ephemeral = true -- Reply is only visible to the user
-                })
-            end
-        end)
     end
 }
