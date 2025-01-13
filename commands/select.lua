@@ -48,7 +48,7 @@ return {
     callback = function(interaction, args)
         -- Reply with a message containing the select menu
         interaction:reply({
-            content = "Choose an option from the menu below:",
+            content = "Please chose one of the options:",
             components = {compsMenu} -- Use the plain Lua table here
         })
     end
