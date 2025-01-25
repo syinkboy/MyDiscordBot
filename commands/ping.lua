@@ -13,12 +13,12 @@ return {
     description = 'Replies with pong',
     callback = function(message, args)
         local sent_msg = message:reply({
-            content = 'Hell nah',
+            content = 'Pong!',
             components = comps:raw()
 
         })
         local _, interaction = sent_msg:waitComponent('Button')
-        interaction:reply('Ping!')
+        interaction:reply('Ping!', true)
     end
 
         

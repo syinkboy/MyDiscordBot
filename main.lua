@@ -111,5 +111,6 @@ client:on("memberJoin", function(member) -- Whenever someone joins any server th
       -- Screenshare and open visual studio code
   end)
 
+ 
   local token = require("token")
 client:run("Bot " .. token)
