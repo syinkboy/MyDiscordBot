@@ -1170,3 +1170,654 @@
 2025-01-24 20:47:48 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
 2025-01-24 20:47:48 | [INFO]    | Shard 0 : Received HELLO
 2025-01-24 20:47:48 | [INFO]    | Shard 0 : Received READY
+2025-01-25 09:18:49 | [INFO]    | Discordia 2.13.0
+2025-01-25 09:18:49 | [INFO]    | Connecting to Discord...
+2025-01-25 09:18:49 | [INFO]    | Authenticated as Global bot#2478
+2025-01-25 09:18:49 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-01-25 09:18:50 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-01-25 09:18:50 | [INFO]    | Shard 0 : Received HELLO
+2025-01-25 09:18:50 | [INFO]    | Shard 0 : Received READY
+2025-01-25 09:23:08 | [INFO]    | Discordia 2.13.0
+2025-01-25 09:23:08 | [INFO]    | Connecting to Discord...
+2025-01-25 09:23:08 | [INFO]    | Authenticated as Global bot#2478
+2025-01-25 09:23:08 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-01-25 09:23:09 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-01-25 09:23:09 | [INFO]    | Shard 0 : Received HELLO
+2025-01-25 09:23:09 | [INFO]    | Shard 0 : Received READY
+2025-01-25 09:30:02 | [INFO]    | Discordia 2.13.0
+2025-01-25 09:30:02 | [INFO]    | Connecting to Discord...
+2025-01-25 09:30:03 | [INFO]    | Authenticated as Global bot#2478
+2025-01-25 09:30:03 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-01-25 09:30:03 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-01-25 09:30:03 | [INFO]    | Shard 0 : Received HELLO
+2025-01-25 09:30:03 | [INFO]    | Shard 0 : Received READY
+2025-01-25 09:31:49 | [INFO]    | Discordia 2.13.0
+2025-01-25 09:31:49 | [INFO]    | Connecting to Discord...
+2025-01-25 09:31:49 | [INFO]    | Authenticated as Global bot#2478
+2025-01-25 09:31:49 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-01-25 09:31:49 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-01-25 09:31:49 | [INFO]    | Shard 0 : Received HELLO
+2025-01-25 09:31:49 | [INFO]    | Shard 0 : Received READY
+2025-01-25 09:34:13 | [INFO]    | Discordia 2.13.0
+2025-01-25 09:34:13 | [INFO]    | Connecting to Discord...
+2025-01-25 09:34:13 | [INFO]    | Authenticated as Global bot#2478
+2025-01-25 09:34:13 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-01-25 09:34:13 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-01-25 09:34:13 | [INFO]    | Shard 0 : Received HELLO
+2025-01-25 09:34:14 | [INFO]    | Shard 0 : Received READY
+2025-01-25 09:34:15 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v8/channels/1300862251892478012/messages
+2025-01-25 09:34:43 | [INFO]    | Discordia 2.13.0
+2025-01-25 09:34:43 | [INFO]    | Connecting to Discord...
+2025-01-25 09:34:44 | [INFO]    | Authenticated as Global bot#2478
+2025-01-25 09:34:44 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-01-25 09:34:44 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-01-25 09:34:44 | [INFO]    | Shard 0 : Received HELLO
+2025-01-25 09:34:44 | [INFO]    | Shard 0 : Received READY
+2025-01-25 09:34:46 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v8/channels/1300862251892478012/messages
+2025-01-25 11:24:53 | [INFO]    | Discordia 2.13.0
+2025-01-25 11:24:53 | [INFO]    | Connecting to Discord...
+2025-01-25 11:24:53 | [INFO]    | Authenticated as Global bot#2478
+2025-01-25 11:24:54 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-01-25 11:24:54 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-01-25 11:24:54 | [INFO]    | Shard 0 : Received HELLO
+2025-01-25 11:24:54 | [INFO]    | Shard 0 : Received READY
+2025-01-25 11:27:01 | [INFO]    | Discordia 2.13.0
+2025-01-25 11:27:01 | [INFO]    | Connecting to Discord...
+2025-01-25 11:27:02 | [INFO]    | Authenticated as Global bot#2478
+2025-01-25 11:27:02 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-01-25 11:27:02 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-01-25 11:27:02 | [INFO]    | Shard 0 : Received HELLO
+2025-01-25 11:27:02 | [INFO]    | Shard 0 : Received READY
+2025-01-25 11:27:48 | [INFO]    | Discordia 2.13.0
+2025-01-25 11:27:48 | [INFO]    | Connecting to Discord...
+2025-01-25 11:27:48 | [INFO]    | Authenticated as Global bot#2478
+2025-01-25 11:27:48 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-01-25 11:27:49 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-01-25 11:27:49 | [INFO]    | Shard 0 : Received HELLO
+2025-01-25 11:27:49 | [INFO]    | Shard 0 : Received READY
+2025-01-25 11:28:11 | [INFO]    | Discordia 2.13.0
+2025-01-25 11:28:11 | [INFO]    | Connecting to Discord...
+2025-01-25 11:28:11 | [INFO]    | Authenticated as Global bot#2478
+2025-01-25 11:28:11 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-01-25 11:28:11 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-01-25 11:28:11 | [INFO]    | Shard 0 : Received HELLO
+2025-01-25 11:28:12 | [INFO]    | Shard 0 : Received READY
+2025-01-25 11:30:09 | [INFO]    | Discordia 2.13.0
+2025-01-25 11:30:09 | [INFO]    | Connecting to Discord...
+2025-01-25 11:30:09 | [INFO]    | Authenticated as Global bot#2478
+2025-01-25 11:30:09 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-01-25 11:30:09 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-01-25 11:30:09 | [INFO]    | Shard 0 : Received HELLO
+2025-01-25 11:30:10 | [INFO]    | Shard 0 : Received READY
+2025-01-25 11:31:52 | [INFO]    | Discordia 2.13.0
+2025-01-25 11:31:52 | [INFO]    | Connecting to Discord...
+2025-01-25 11:31:52 | [INFO]    | Authenticated as Global bot#2478
+2025-01-25 11:31:52 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-01-25 11:31:52 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-01-25 11:31:52 | [INFO]    | Shard 0 : Received HELLO
+2025-01-25 11:31:53 | [INFO]    | Shard 0 : Received READY
+2025-01-25 21:47:47 | [INFO]    | Discordia 2.13.0
+2025-01-25 21:47:47 | [INFO]    | Connecting to Discord...
+2025-01-25 21:47:47 | [INFO]    | Authenticated as Global bot#2478
+2025-01-25 21:47:48 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-01-25 21:47:48 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-01-25 21:47:48 | [INFO]    | Shard 0 : Received HELLO
+2025-01-25 21:47:48 | [INFO]    | Shard 0 : Received READY
+2025-01-26 16:58:31 | [INFO]    | Discordia 2.13.0
+2025-01-26 16:58:31 | [INFO]    | Connecting to Discord...
+2025-01-26 16:58:31 | [INFO]    | Authenticated as Global bot#2478
+2025-01-26 16:58:32 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-01-26 16:58:32 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-01-26 16:58:32 | [INFO]    | Shard 0 : Received HELLO
+2025-01-26 16:58:32 | [INFO]    | Shard 0 : Received READY
+2025-01-26 17:10:27 | [INFO]    | Discordia 2.13.0
+2025-01-26 17:10:27 | [INFO]    | Connecting to Discord...
+2025-01-26 17:10:27 | [INFO]    | Authenticated as Global bot#2478
+2025-01-26 17:10:27 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-01-26 17:10:27 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-01-26 17:10:27 | [INFO]    | Shard 0 : Received HELLO
+2025-01-26 17:10:27 | [INFO]    | Shard 0 : Received READY
+2025-01-26 17:35:59 | [INFO]    | Discordia 2.13.0
+2025-01-26 17:35:59 | [INFO]    | Connecting to Discord...
+2025-01-26 17:36:00 | [INFO]    | Authenticated as Global bot#2478
+2025-01-26 17:36:00 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-01-26 17:36:00 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-01-26 17:36:00 | [INFO]    | Shard 0 : Received HELLO
+2025-01-26 17:36:00 | [INFO]    | Shard 0 : Received READY
+2025-01-26 17:42:59 | [INFO]    | Discordia 2.13.0
+2025-01-26 17:42:59 | [INFO]    | Connecting to Discord...
+2025-01-26 17:43:00 | [INFO]    | Authenticated as Global bot#2478
+2025-01-26 17:43:00 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-01-26 17:43:00 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-01-26 17:43:00 | [INFO]    | Shard 0 : Received HELLO
+2025-01-26 17:43:00 | [INFO]    | Shard 0 : Received READY
+2025-01-26 17:46:39 | [INFO]    | Discordia 2.13.0
+2025-01-26 17:46:39 | [INFO]    | Connecting to Discord...
+2025-01-26 17:46:39 | [INFO]    | Authenticated as Global bot#2478
+2025-01-26 17:46:39 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-01-26 17:46:39 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-01-26 17:46:39 | [INFO]    | Shard 0 : Received HELLO
+2025-01-26 17:46:40 | [INFO]    | Shard 0 : Received READY
+2025-01-26 17:47:05 | [INFO]    | Discordia 2.13.0
+2025-01-26 17:47:05 | [INFO]    | Connecting to Discord...
+2025-01-26 17:47:05 | [INFO]    | Authenticated as Global bot#2478
+2025-01-26 17:47:05 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-01-26 17:47:05 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-01-26 17:47:05 | [INFO]    | Shard 0 : Received HELLO
+2025-01-26 17:47:05 | [INFO]    | Shard 0 : Received READY
+2025-01-26 17:51:53 | [INFO]    | Discordia 2.13.0
+2025-01-26 17:51:53 | [INFO]    | Connecting to Discord...
+2025-01-26 17:51:54 | [INFO]    | Authenticated as Global bot#2478
+2025-01-26 17:51:54 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-01-26 17:51:54 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-01-26 17:51:54 | [INFO]    | Shard 0 : Received HELLO
+2025-01-26 17:51:54 | [INFO]    | Shard 0 : Received READY
+2025-01-26 18:02:41 | [INFO]    | Discordia 2.13.0
+2025-01-26 18:02:41 | [INFO]    | Connecting to Discord...
+2025-01-26 18:02:42 | [INFO]    | Authenticated as Global bot#2478
+2025-01-26 18:02:42 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-01-26 18:02:42 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-01-26 18:02:42 | [INFO]    | Shard 0 : Received HELLO
+2025-01-26 18:02:43 | [INFO]    | Shard 0 : Received READY
+2025-01-26 18:03:33 | [INFO]    | Discordia 2.13.0
+2025-01-26 18:03:33 | [INFO]    | Connecting to Discord...
+2025-01-26 18:03:33 | [INFO]    | Authenticated as Global bot#2478
+2025-01-26 18:03:33 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-01-26 18:03:34 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-01-26 18:03:34 | [INFO]    | Shard 0 : Received HELLO
+2025-01-26 18:03:34 | [INFO]    | Shard 0 : Received READY
+2025-01-26 18:04:08 | [INFO]    | Discordia 2.13.0
+2025-01-26 18:04:08 | [INFO]    | Connecting to Discord...
+2025-01-26 18:04:09 | [INFO]    | Authenticated as Global bot#2478
+2025-01-26 18:04:09 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-01-26 18:04:09 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-01-26 18:04:09 | [INFO]    | Shard 0 : Received HELLO
+2025-01-26 18:04:09 | [INFO]    | Shard 0 : Received READY
+2025-01-26 19:33:56 | [INFO]    | Discordia 2.13.0
+2025-01-26 19:33:56 | [INFO]    | Connecting to Discord...
+2025-01-26 19:33:56 | [INFO]    | Authenticated as Global bot#2478
+2025-01-26 19:33:57 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-01-26 19:33:57 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-01-26 19:33:57 | [INFO]    | Shard 0 : Received HELLO
+2025-01-26 19:33:57 | [INFO]    | Shard 0 : Received READY
+2025-01-26 19:41:07 | [INFO]    | Discordia 2.13.0
+2025-01-26 19:41:07 | [INFO]    | Connecting to Discord...
+2025-01-26 19:41:07 | [INFO]    | Authenticated as Global bot#2478
+2025-01-26 19:41:07 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-01-26 19:41:07 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-01-26 19:41:07 | [INFO]    | Shard 0 : Received HELLO
+2025-01-26 19:41:08 | [INFO]    | Shard 0 : Received READY
+2025-01-26 19:44:26 | [INFO]    | Discordia 2.13.0
+2025-01-26 19:44:26 | [INFO]    | Connecting to Discord...
+2025-01-26 19:44:26 | [INFO]    | Authenticated as Global bot#2478
+2025-01-26 19:44:26 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-01-26 19:44:26 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-01-26 19:44:26 | [INFO]    | Shard 0 : Received HELLO
+2025-01-26 19:44:26 | [INFO]    | Shard 0 : Received READY
+2025-01-26 19:45:18 | [INFO]    | Discordia 2.13.0
+2025-01-26 19:45:18 | [INFO]    | Connecting to Discord...
+2025-01-26 19:45:18 | [INFO]    | Authenticated as Global bot#2478
+2025-01-26 19:45:18 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-01-26 19:45:18 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-01-26 19:45:18 | [INFO]    | Shard 0 : Received HELLO
+2025-01-26 19:45:18 | [INFO]    | Shard 0 : Received READY
+2025-01-27 19:29:06 | [INFO]    | Discordia 2.13.0
+2025-01-27 19:29:06 | [INFO]    | Connecting to Discord...
+2025-01-27 19:29:07 | [INFO]    | Authenticated as Global bot#2478
+2025-01-27 19:29:07 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-01-27 19:29:08 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-01-27 19:29:08 | [INFO]    | Shard 0 : Received HELLO
+2025-01-27 19:29:08 | [INFO]    | Shard 0 : Received READY
+2025-01-27 19:36:22 | [INFO]    | Discordia 2.13.0
+2025-01-27 19:36:22 | [INFO]    | Connecting to Discord...
+2025-01-27 19:36:22 | [INFO]    | Authenticated as Global bot#2478
+2025-01-27 19:36:22 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-01-27 19:36:23 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-01-27 19:36:23 | [INFO]    | Shard 0 : Received HELLO
+2025-01-27 19:36:23 | [INFO]    | Shard 0 : Received READY
+2025-01-27 19:37:10 | [INFO]    | Discordia 2.13.0
+2025-01-27 19:37:10 | [INFO]    | Connecting to Discord...
+2025-01-27 19:37:11 | [INFO]    | Authenticated as Global bot#2478
+2025-01-27 19:37:11 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-01-27 19:37:11 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-01-27 19:37:11 | [INFO]    | Shard 0 : Received HELLO
+2025-01-27 19:37:11 | [INFO]    | Shard 0 : Received READY
+2025-01-27 19:47:35 | [INFO]    | Discordia 2.13.0
+2025-01-27 19:47:35 | [INFO]    | Connecting to Discord...
+2025-01-27 19:47:36 | [INFO]    | Authenticated as Global bot#2478
+2025-01-27 19:47:36 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-01-27 19:47:36 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-01-27 19:47:36 | [INFO]    | Shard 0 : Received HELLO
+2025-01-27 19:47:36 | [INFO]    | Shard 0 : Received READY
+2025-01-27 19:49:41 | [INFO]    | Discordia 2.13.0
+2025-01-27 19:49:41 | [INFO]    | Connecting to Discord...
+2025-01-27 19:49:41 | [INFO]    | Authenticated as Global bot#2478
+2025-01-27 19:49:41 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-01-27 19:49:41 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-01-27 19:49:41 | [INFO]    | Shard 0 : Received HELLO
+2025-01-27 19:49:42 | [INFO]    | Shard 0 : Received READY
+2025-01-27 19:52:20 | [INFO]    | Discordia 2.13.0
+2025-01-27 19:52:20 | [INFO]    | Connecting to Discord...
+2025-01-27 19:52:21 | [INFO]    | Authenticated as Global bot#2478
+2025-01-27 19:52:21 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-01-27 19:52:21 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-01-27 19:52:21 | [INFO]    | Shard 0 : Received HELLO
+2025-01-27 19:52:21 | [INFO]    | Shard 0 : Received READY
+2025-01-28 17:25:54 | [INFO]    | Discordia 2.13.0
+2025-01-28 17:25:54 | [INFO]    | Connecting to Discord...
+2025-01-28 17:25:54 | [INFO]    | Authenticated as Global bot#2478
+2025-01-28 17:25:55 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-01-28 17:25:55 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-01-28 17:25:55 | [INFO]    | Shard 0 : Received HELLO
+2025-01-28 17:25:55 | [INFO]    | Shard 0 : Received READY
+2025-01-28 17:27:05 | [INFO]    | Discordia 2.13.0
+2025-01-28 17:27:05 | [INFO]    | Connecting to Discord...
+2025-01-28 17:27:06 | [INFO]    | Authenticated as Global bot#2478
+2025-01-28 17:27:06 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-01-28 17:27:06 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-01-28 17:27:06 | [INFO]    | Shard 0 : Received HELLO
+2025-01-28 17:27:06 | [INFO]    | Shard 0 : Received READY
+2025-01-28 17:30:51 | [INFO]    | Discordia 2.13.0
+2025-01-28 17:30:51 | [INFO]    | Connecting to Discord...
+2025-01-28 17:30:51 | [INFO]    | Authenticated as Global bot#2478
+2025-01-28 17:30:51 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-01-28 17:30:51 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-01-28 17:30:51 | [INFO]    | Shard 0 : Received HELLO
+2025-01-28 17:30:51 | [INFO]    | Shard 0 : Received READY
+2025-01-30 15:22:08 | [INFO]    | Discordia 2.13.0
+2025-01-30 15:22:08 | [INFO]    | Connecting to Discord...
+2025-01-30 15:22:08 | [INFO]    | Authenticated as 🏞  Kansas Roleplay#2478
+2025-01-30 15:22:09 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-01-30 15:22:09 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-01-30 15:22:09 | [INFO]    | Shard 0 : Received HELLO
+2025-01-30 15:22:09 | [INFO]    | Shard 0 : Received READY
+2025-01-31 15:11:46 | [INFO]    | Discordia 2.13.0
+2025-01-31 15:11:46 | [INFO]    | Connecting to Discord...
+2025-01-31 15:11:46 | [INFO]    | Authenticated as 🏞  Kansas Roleplay#2478
+2025-01-31 15:11:47 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-01-31 15:11:47 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-01-31 15:11:47 | [INFO]    | Shard 0 : Received HELLO
+2025-01-31 15:11:47 | [INFO]    | Shard 0 : Received READY
+2025-01-31 15:23:43 | [INFO]    | Discordia 2.13.0
+2025-01-31 15:23:43 | [INFO]    | Connecting to Discord...
+2025-01-31 15:23:44 | [INFO]    | Authenticated as 🏞  Kansas Roleplay#2478
+2025-01-31 15:23:44 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-01-31 15:23:44 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-01-31 15:23:44 | [INFO]    | Shard 0 : Received HELLO
+2025-01-31 15:23:45 | [INFO]    | Shard 0 : Received READY
+2025-01-31 15:25:32 | [INFO]    | Discordia 2.13.0
+2025-01-31 15:25:32 | [INFO]    | Connecting to Discord...
+2025-01-31 15:25:32 | [INFO]    | Authenticated as 🏞  Kansas Roleplay#2478
+2025-01-31 15:25:32 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-01-31 15:25:32 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-01-31 15:25:32 | [INFO]    | Shard 0 : Received HELLO
+2025-01-31 15:25:33 | [INFO]    | Shard 0 : Received READY
+2025-01-31 15:26:50 | [INFO]    | Discordia 2.13.0
+2025-01-31 15:26:50 | [INFO]    | Connecting to Discord...
+2025-01-31 15:26:51 | [INFO]    | Authenticated as 🏞  Kansas Roleplay#2478
+2025-01-31 15:26:51 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-01-31 15:26:51 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-01-31 15:26:51 | [INFO]    | Shard 0 : Received HELLO
+2025-01-31 15:26:51 | [INFO]    | Shard 0 : Received READY
+2025-01-31 15:27:39 | [INFO]    | Discordia 2.13.0
+2025-01-31 15:27:39 | [INFO]    | Connecting to Discord...
+2025-01-31 15:27:39 | [INFO]    | Authenticated as 🏞  Kansas Roleplay#2478
+2025-01-31 15:27:39 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-01-31 15:27:39 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-01-31 15:27:39 | [INFO]    | Shard 0 : Received HELLO
+2025-01-31 15:27:40 | [INFO]    | Shard 0 : Received READY
+2025-01-31 15:29:21 | [INFO]    | Discordia 2.13.0
+2025-01-31 15:29:21 | [INFO]    | Connecting to Discord...
+2025-01-31 15:29:21 | [INFO]    | Authenticated as 🏞  Kansas Roleplay#2478
+2025-01-31 15:29:21 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-01-31 15:29:21 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-01-31 15:29:21 | [INFO]    | Shard 0 : Received HELLO
+2025-01-31 15:29:22 | [INFO]    | Shard 0 : Received READY
+2025-01-31 15:32:41 | [INFO]    | Discordia 2.13.0
+2025-01-31 15:32:41 | [INFO]    | Connecting to Discord...
+2025-01-31 15:32:41 | [INFO]    | Authenticated as 🏞  Kansas Roleplay#2478
+2025-01-31 15:32:41 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-01-31 15:32:41 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-01-31 15:32:41 | [INFO]    | Shard 0 : Received HELLO
+2025-01-31 15:32:42 | [INFO]    | Shard 0 : Received READY
+2025-01-31 15:36:14 | [INFO]    | Discordia 2.13.0
+2025-01-31 15:36:14 | [INFO]    | Connecting to Discord...
+2025-01-31 15:36:15 | [INFO]    | Authenticated as 🏞  Kansas Roleplay#2478
+2025-01-31 15:36:15 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-01-31 15:36:15 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-01-31 15:36:15 | [INFO]    | Shard 0 : Received HELLO
+2025-01-31 15:36:15 | [INFO]    | Shard 0 : Received READY
+2025-01-31 16:17:18 | [INFO]    | Discordia 2.13.0
+2025-01-31 16:17:18 | [INFO]    | Connecting to Discord...
+2025-01-31 16:17:19 | [INFO]    | Authenticated as 🏞  Kansas Roleplay#2478
+2025-01-31 16:17:19 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-01-31 16:17:20 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-01-31 16:17:20 | [INFO]    | Shard 0 : Received HELLO
+2025-01-31 16:17:20 | [INFO]    | Shard 0 : Received READY
+2025-01-31 16:18:16 | [INFO]    | Discordia 2.13.0
+2025-01-31 16:18:16 | [INFO]    | Connecting to Discord...
+2025-01-31 16:18:16 | [INFO]    | Authenticated as 🏞  Kansas Roleplay#2478
+2025-01-31 16:18:16 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-01-31 16:18:16 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-01-31 16:18:16 | [INFO]    | Shard 0 : Received HELLO
+2025-01-31 16:18:16 | [INFO]    | Shard 0 : Received READY
+2025-01-31 16:24:06 | [INFO]    | Discordia 2.13.0
+2025-01-31 16:24:06 | [INFO]    | Connecting to Discord...
+2025-01-31 16:24:06 | [INFO]    | Authenticated as 🏞  Kansas Roleplay#2478
+2025-01-31 16:24:06 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-01-31 16:24:06 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-01-31 16:24:06 | [INFO]    | Shard 0 : Received HELLO
+2025-01-31 16:24:06 | [INFO]    | Shard 0 : Received READY
+2025-01-31 16:28:25 | [INFO]    | Discordia 2.13.0
+2025-01-31 16:28:25 | [INFO]    | Connecting to Discord...
+2025-01-31 16:28:25 | [INFO]    | Authenticated as 🏞  Kansas Roleplay#2478
+2025-01-31 16:28:25 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-01-31 16:28:25 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-01-31 16:28:25 | [INFO]    | Shard 0 : Received HELLO
+2025-01-31 16:28:26 | [INFO]    | Shard 0 : Received READY
+2025-01-31 16:39:22 | [INFO]    | Discordia 2.13.0
+2025-01-31 16:39:22 | [INFO]    | Connecting to Discord...
+2025-01-31 16:39:22 | [INFO]    | Authenticated as 🏞  Kansas Roleplay#2478
+2025-01-31 16:39:22 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-01-31 16:39:23 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-01-31 16:39:23 | [INFO]    | Shard 0 : Received HELLO
+2025-01-31 16:39:23 | [INFO]    | Shard 0 : Received READY
+2025-01-31 16:41:52 | [INFO]    | Discordia 2.13.0
+2025-01-31 16:41:52 | [INFO]    | Connecting to Discord...
+2025-01-31 16:41:52 | [INFO]    | Authenticated as 🏞  Kansas Roleplay#2478
+2025-01-31 16:41:52 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-01-31 16:41:52 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-01-31 16:41:52 | [INFO]    | Shard 0 : Received HELLO
+2025-01-31 16:41:52 | [INFO]    | Shard 0 : Received READY
+2025-01-31 17:07:32 | [INFO]    | Discordia 2.13.0
+2025-01-31 17:07:32 | [INFO]    | Connecting to Discord...
+2025-01-31 17:07:32 | [INFO]    | Authenticated as 🏞  Kansas Roleplay#2478
+2025-01-31 17:07:32 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-01-31 17:07:32 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-01-31 17:07:32 | [INFO]    | Shard 0 : Received HELLO
+2025-01-31 17:07:32 | [INFO]    | Shard 0 : Received READY
+2025-01-31 17:09:33 | [INFO]    | Discordia 2.13.0
+2025-01-31 17:09:33 | [INFO]    | Connecting to Discord...
+2025-01-31 17:09:33 | [INFO]    | Authenticated as 🏞  Kansas Roleplay#2478
+2025-01-31 17:09:33 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-01-31 17:09:34 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-01-31 17:09:34 | [INFO]    | Shard 0 : Received HELLO
+2025-01-31 17:09:34 | [INFO]    | Shard 0 : Received READY
+2025-01-31 17:12:45 | [INFO]    | Discordia 2.13.0
+2025-01-31 17:12:45 | [INFO]    | Connecting to Discord...
+2025-01-31 17:12:46 | [INFO]    | Authenticated as 🏞  Kansas Roleplay#2478
+2025-01-31 17:12:46 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-01-31 17:12:46 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-01-31 17:12:46 | [INFO]    | Shard 0 : Received HELLO
+2025-01-31 17:12:46 | [INFO]    | Shard 0 : Received READY
+2025-01-31 17:16:00 | [ERROR]   | 400 - Bad Request : GET https://discord.com/api/v8/users/nil
+2025-01-31 17:33:51 | [INFO]    | Discordia 2.13.0
+2025-01-31 17:33:51 | [INFO]    | Connecting to Discord...
+2025-01-31 17:33:52 | [INFO]    | Authenticated as Kansas Roleplay Management#2478
+2025-01-31 17:33:52 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-01-31 17:33:52 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-01-31 17:33:52 | [INFO]    | Shard 0 : Received HELLO
+2025-01-31 17:33:52 | [INFO]    | Shard 0 : Received READY
+2025-01-31 17:37:38 | [ERROR]   | 400 - Bad Request : GET https://discord.com/api/v8/users/nil
+2025-01-31 17:41:12 | [INFO]    | Discordia 2.13.0
+2025-01-31 17:41:12 | [INFO]    | Connecting to Discord...
+2025-01-31 17:41:12 | [INFO]    | Authenticated as Kansas Roleplay Management#2478
+2025-01-31 17:41:12 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-01-31 17:41:13 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-01-31 17:41:13 | [INFO]    | Shard 0 : Received HELLO
+2025-01-31 17:41:13 | [INFO]    | Shard 0 : Received READY
+2025-01-31 17:45:22 | [INFO]    | Discordia 2.13.0
+2025-01-31 17:45:22 | [INFO]    | Connecting to Discord...
+2025-01-31 17:45:22 | [INFO]    | Authenticated as Kansas Roleplay Management#2478
+2025-01-31 17:45:22 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-01-31 17:45:22 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-01-31 17:45:22 | [INFO]    | Shard 0 : Received HELLO
+2025-01-31 17:45:23 | [INFO]    | Shard 0 : Received READY
+2025-01-31 19:21:11 | [INFO]    | Discordia 2.13.0
+2025-01-31 19:21:11 | [INFO]    | Connecting to Discord...
+2025-01-31 19:21:12 | [INFO]    | Authenticated as Kansas Roleplay Management#2478
+2025-01-31 19:21:12 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-01-31 19:21:12 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-01-31 19:21:12 | [INFO]    | Shard 0 : Received HELLO
+2025-01-31 19:21:13 | [INFO]    | Shard 0 : Received READY
+2025-01-31 19:22:03 | [INFO]    | Discordia 2.13.0
+2025-01-31 19:22:03 | [INFO]    | Connecting to Discord...
+2025-01-31 19:22:03 | [INFO]    | Authenticated as Kansas Roleplay Management#2478
+2025-01-31 19:22:03 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-01-31 19:22:03 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-01-31 19:22:03 | [INFO]    | Shard 0 : Received HELLO
+2025-01-31 19:22:04 | [INFO]    | Shard 0 : Received READY
+2025-01-31 19:22:46 | [INFO]    | Discordia 2.13.0
+2025-01-31 19:22:46 | [INFO]    | Connecting to Discord...
+2025-01-31 19:22:46 | [INFO]    | Authenticated as Kansas Roleplay Management#2478
+2025-01-31 19:22:46 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-01-31 19:22:46 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-01-31 19:22:46 | [INFO]    | Shard 0 : Received HELLO
+2025-01-31 19:22:47 | [INFO]    | Shard 0 : Received READY
+2025-01-31 20:50:07 | [INFO]    | Discordia 2.13.0
+2025-01-31 20:50:07 | [INFO]    | Connecting to Discord...
+2025-01-31 20:50:07 | [INFO]    | Authenticated as Kansas Roleplay Management#2478
+2025-01-31 20:50:08 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-01-31 20:50:08 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-01-31 20:50:08 | [INFO]    | Shard 0 : Received HELLO
+2025-01-31 20:50:08 | [INFO]    | Shard 0 : Received READY
+2025-01-31 20:51:35 | [INFO]    | Discordia 2.13.0
+2025-01-31 20:51:35 | [INFO]    | Connecting to Discord...
+2025-01-31 20:51:35 | [INFO]    | Authenticated as Kansas Roleplay Management#2478
+2025-01-31 20:51:35 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-01-31 20:51:36 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-01-31 20:51:36 | [INFO]    | Shard 0 : Received HELLO
+2025-01-31 20:51:36 | [INFO]    | Shard 0 : Received READY
+2025-01-31 20:56:11 | [INFO]    | Discordia 2.13.0
+2025-01-31 20:56:11 | [INFO]    | Connecting to Discord...
+2025-01-31 20:56:11 | [INFO]    | Authenticated as Kansas Roleplay Management#2478
+2025-01-31 20:56:11 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-01-31 20:56:11 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-01-31 20:56:11 | [INFO]    | Shard 0 : Received HELLO
+2025-01-31 20:56:12 | [INFO]    | Shard 0 : Received READY
+2025-01-31 20:57:48 | [INFO]    | Discordia 2.13.0
+2025-01-31 20:57:48 | [INFO]    | Connecting to Discord...
+2025-01-31 20:57:48 | [INFO]    | Authenticated as Kansas Roleplay Management#2478
+2025-01-31 20:57:48 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-01-31 20:57:48 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-01-31 20:57:48 | [INFO]    | Shard 0 : Received HELLO
+2025-01-31 20:57:49 | [INFO]    | Shard 0 : Received READY
+2025-01-31 20:57:57 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v8/channels/1286417349364416635/messages
+2025-01-31 20:58:06 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v8/channels/1286417349364416635/messages
+2025-01-31 20:58:53 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v8/channels/1286417349364416635/messages
+2025-01-31 20:59:07 | [INFO]    | Discordia 2.13.0
+2025-01-31 20:59:07 | [INFO]    | Connecting to Discord...
+2025-01-31 20:59:08 | [INFO]    | Authenticated as Kansas Roleplay Management#2478
+2025-01-31 20:59:08 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-01-31 20:59:08 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-01-31 20:59:08 | [INFO]    | Shard 0 : Received HELLO
+2025-01-31 20:59:08 | [INFO]    | Shard 0 : Received READY
+2025-01-31 20:59:36 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v8/channels/1286417349364416635/messages
+2025-01-31 21:00:35 | [INFO]    | Discordia 2.13.0
+2025-01-31 21:00:35 | [INFO]    | Connecting to Discord...
+2025-01-31 21:00:35 | [INFO]    | Authenticated as Kansas Roleplay Management#2478
+2025-01-31 21:00:35 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-01-31 21:00:35 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-01-31 21:00:35 | [INFO]    | Shard 0 : Received HELLO
+2025-01-31 21:00:36 | [INFO]    | Shard 0 : Received READY
+2025-01-31 21:00:54 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v8/channels/1286417349364416635/messages
+2025-01-31 21:25:02 | [INFO]    | Discordia 2.13.0
+2025-01-31 21:25:02 | [INFO]    | Connecting to Discord...
+2025-01-31 21:25:02 | [INFO]    | Authenticated as Kansas Roleplay Management#2478
+2025-01-31 21:25:02 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-01-31 21:25:02 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-01-31 21:25:02 | [INFO]    | Shard 0 : Received HELLO
+2025-01-31 21:25:02 | [INFO]    | Shard 0 : Received READY
+2025-01-31 21:25:43 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v8/channels/1286417349364416635/messages
+2025-02-01 09:07:18 | [INFO]    | Discordia 2.13.0
+2025-02-01 09:07:18 | [INFO]    | Connecting to Discord...
+2025-02-01 09:07:18 | [INFO]    | Authenticated as Kansas Roleplay Management#2478
+2025-02-01 09:07:19 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-02-01 09:07:19 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-02-01 09:07:19 | [INFO]    | Shard 0 : Received HELLO
+2025-02-01 09:07:19 | [INFO]    | Shard 0 : Received READY
+2025-02-01 09:09:23 | [INFO]    | Discordia 2.13.0
+2025-02-01 09:09:23 | [INFO]    | Connecting to Discord...
+2025-02-01 09:09:23 | [INFO]    | Authenticated as Kansas Roleplay Management#2478
+2025-02-01 09:09:23 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-02-01 09:09:23 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-02-01 09:09:23 | [INFO]    | Shard 0 : Received HELLO
+2025-02-01 09:09:23 | [INFO]    | Shard 0 : Received READY
+2025-02-01 09:15:24 | [INFO]    | Discordia 2.13.0
+2025-02-01 09:15:24 | [INFO]    | Connecting to Discord...
+2025-02-01 09:15:24 | [INFO]    | Authenticated as Kansas Roleplay Management#2478
+2025-02-01 09:15:24 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-02-01 09:15:24 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-02-01 09:15:24 | [INFO]    | Shard 0 : Received HELLO
+2025-02-01 09:15:24 | [INFO]    | Shard 0 : Received READY
+2025-02-01 09:21:30 | [INFO]    | Discordia 2.13.0
+2025-02-01 09:21:30 | [INFO]    | Connecting to Discord...
+2025-02-01 09:21:30 | [INFO]    | Authenticated as Kansas Roleplay Management#2478
+2025-02-01 09:21:30 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-02-01 09:21:31 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-02-01 09:21:31 | [INFO]    | Shard 0 : Received HELLO
+2025-02-01 09:21:31 | [INFO]    | Shard 0 : Received READY
+2025-02-01 10:49:13 | [INFO]    | Discordia 2.13.0
+2025-02-01 10:49:13 | [INFO]    | Connecting to Discord...
+2025-02-01 10:49:13 | [INFO]    | Authenticated as Kansas Roleplay Management#2478
+2025-02-01 10:49:13 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-02-01 10:49:14 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-02-01 10:49:14 | [INFO]    | Shard 0 : Received HELLO
+2025-02-01 10:49:14 | [INFO]    | Shard 0 : Received READY
+2025-02-01 11:01:09 | [INFO]    | Discordia 2.13.0
+2025-02-01 11:01:09 | [INFO]    | Connecting to Discord...
+2025-02-01 11:01:09 | [INFO]    | Authenticated as Kansas Roleplay Management#2478
+2025-02-01 11:01:09 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-02-01 11:01:09 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-02-01 11:01:09 | [INFO]    | Shard 0 : Received HELLO
+2025-02-01 11:01:09 | [INFO]    | Shard 0 : Received READY
+2025-02-01 11:03:42 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v8/channels/1300862251892478012/messages
+2025-02-01 11:03:57 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v8/channels/1300862251892478012/messages
+2025-02-01 11:04:22 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v8/channels/1300862251892478012/messages
+2025-02-01 11:05:57 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v8/channels/1286417349364416635/messages
+2025-02-01 11:07:35 | [INFO]    | Discordia 2.13.0
+2025-02-01 11:07:35 | [INFO]    | Connecting to Discord...
+2025-02-01 11:07:35 | [INFO]    | Authenticated as Kansas Roleplay Management#2478
+2025-02-01 11:07:35 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-02-01 11:07:36 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-02-01 11:07:36 | [INFO]    | Shard 0 : Received HELLO
+2025-02-01 11:07:36 | [INFO]    | Shard 0 : Received READY
+2025-02-01 11:10:04 | [INFO]    | Discordia 2.13.0
+2025-02-01 11:10:04 | [INFO]    | Connecting to Discord...
+2025-02-01 11:10:04 | [INFO]    | Authenticated as Kansas Roleplay Management#2478
+2025-02-01 11:10:04 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-02-01 11:10:04 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-02-01 11:10:04 | [INFO]    | Shard 0 : Received HELLO
+2025-02-01 11:10:05 | [INFO]    | Shard 0 : Received READY
+2025-02-01 11:11:40 | [INFO]    | Discordia 2.13.0
+2025-02-01 11:11:40 | [INFO]    | Connecting to Discord...
+2025-02-01 11:11:40 | [INFO]    | Authenticated as Kansas Roleplay Management#2478
+2025-02-01 11:11:40 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-02-01 11:11:40 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-02-01 11:11:40 | [INFO]    | Shard 0 : Received HELLO
+2025-02-01 11:11:41 | [INFO]    | Shard 0 : Received READY
+2025-02-01 11:12:10 | [INFO]    | Discordia 2.13.0
+2025-02-01 11:12:11 | [INFO]    | Connecting to Discord...
+2025-02-01 11:12:11 | [INFO]    | Authenticated as Kansas Roleplay Management#2478
+2025-02-01 11:12:11 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-02-01 11:12:11 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-02-01 11:12:11 | [INFO]    | Shard 0 : Received HELLO
+2025-02-01 11:12:11 | [INFO]    | Shard 0 : Received READY
+2025-02-01 11:12:59 | [INFO]    | Discordia 2.13.0
+2025-02-01 11:12:59 | [INFO]    | Connecting to Discord...
+2025-02-01 11:12:59 | [INFO]    | Authenticated as Kansas Roleplay Management#2478
+2025-02-01 11:12:59 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-02-01 11:13:00 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-02-01 11:13:00 | [INFO]    | Shard 0 : Received HELLO
+2025-02-01 11:13:00 | [INFO]    | Shard 0 : Received READY
+2025-02-01 16:03:43 | [INFO]    | Discordia 2.13.0
+2025-02-01 16:03:43 | [INFO]    | Connecting to Discord...
+2025-02-01 16:03:44 | [INFO]    | Authenticated as Kansas Roleplay Management#2478
+2025-02-01 16:03:44 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-02-01 16:03:45 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-02-01 16:03:45 | [INFO]    | Shard 0 : Received HELLO
+2025-02-01 16:03:45 | [INFO]    | Shard 0 : Received READY
+2025-02-05 15:23:23 | [INFO]    | Discordia 2.13.0
+2025-02-05 15:23:23 | [INFO]    | Connecting to Discord...
+2025-02-05 15:23:23 | [INFO]    | Authenticated as Kansas Roleplay Management#2478
+2025-02-05 15:23:24 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-02-05 15:23:24 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-02-05 15:23:24 | [INFO]    | Shard 0 : Received HELLO
+2025-02-05 15:23:24 | [INFO]    | Shard 0 : Received READY
+2025-02-05 15:26:42 | [INFO]    | Discordia 2.13.0
+2025-02-05 15:26:42 | [INFO]    | Connecting to Discord...
+2025-02-05 15:26:43 | [INFO]    | Authenticated as Kansas Roleplay Management#2478
+2025-02-05 15:26:43 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-02-05 15:26:43 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-02-05 15:26:43 | [INFO]    | Shard 0 : Received HELLO
+2025-02-05 15:26:43 | [INFO]    | Shard 0 : Received READY
+2025-02-05 15:31:51 | [INFO]    | Discordia 2.13.0
+2025-02-05 15:31:51 | [INFO]    | Connecting to Discord...
+2025-02-05 15:31:51 | [INFO]    | Authenticated as Kansas Roleplay Management#2478
+2025-02-05 15:31:51 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-02-05 15:31:51 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-02-05 15:31:51 | [INFO]    | Shard 0 : Received HELLO
+2025-02-05 15:31:52 | [INFO]    | Shard 0 : Received READY
+2025-02-05 15:44:21 | [INFO]    | Discordia 2.13.0
+2025-02-05 15:44:21 | [INFO]    | Connecting to Discord...
+2025-02-05 15:44:21 | [INFO]    | Authenticated as Kansas Roleplay Management#2478
+2025-02-05 15:44:21 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-02-05 15:44:21 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-02-05 15:44:21 | [INFO]    | Shard 0 : Received HELLO
+2025-02-05 15:44:21 | [INFO]    | Shard 0 : Received READY
+2025-02-05 16:15:25 | [INFO]    | Discordia 2.13.0
+2025-02-05 16:15:25 | [INFO]    | Connecting to Discord...
+2025-02-05 16:15:25 | [INFO]    | Authenticated as Kansas Roleplay Management#2478
+2025-02-05 16:15:25 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-02-05 16:15:25 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-02-05 16:15:25 | [INFO]    | Shard 0 : Received HELLO
+2025-02-05 16:15:26 | [INFO]    | Shard 0 : Received READY
+2025-02-05 16:17:30 | [INFO]    | Discordia 2.13.0
+2025-02-05 16:17:30 | [INFO]    | Connecting to Discord...
+2025-02-05 16:17:31 | [INFO]    | Authenticated as Kansas Roleplay Management#2478
+2025-02-05 16:17:31 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-02-05 16:17:31 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-02-05 16:17:31 | [INFO]    | Shard 0 : Received HELLO
+2025-02-05 16:17:31 | [INFO]    | Shard 0 : Received READY
+2025-02-05 16:18:26 | [INFO]    | Discordia 2.13.0
+2025-02-05 16:18:26 | [INFO]    | Connecting to Discord...
+2025-02-05 16:18:27 | [INFO]    | Authenticated as Kansas Roleplay Management#2478
+2025-02-05 16:18:27 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-02-05 16:18:27 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-02-05 16:18:27 | [INFO]    | Shard 0 : Received HELLO
+2025-02-05 16:18:27 | [INFO]    | Shard 0 : Received READY
+2025-02-05 16:27:26 | [INFO]    | Discordia 2.13.0
+2025-02-05 16:27:26 | [INFO]    | Connecting to Discord...
+2025-02-05 16:27:26 | [INFO]    | Authenticated as Kansas Roleplay Management#2478
+2025-02-05 16:27:27 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-02-05 16:27:27 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-02-05 16:27:27 | [INFO]    | Shard 0 : Received HELLO
+2025-02-05 16:27:27 | [INFO]    | Shard 0 : Received READY
+2025-02-05 16:29:10 | [INFO]    | Discordia 2.13.0
+2025-02-05 16:29:10 | [INFO]    | Connecting to Discord...
+2025-02-05 16:29:10 | [INFO]    | Authenticated as Kansas Roleplay Management#2478
+2025-02-05 16:29:10 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-02-05 16:29:10 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-02-05 16:29:10 | [INFO]    | Shard 0 : Received HELLO
+2025-02-05 16:29:10 | [INFO]    | Shard 0 : Received READY
+2025-02-05 19:03:41 | [INFO]    | Discordia 2.13.0
+2025-02-05 19:03:41 | [INFO]    | Connecting to Discord...
+2025-02-05 19:03:41 | [INFO]    | Authenticated as Kansas Roleplay Management#2478
+2025-02-05 19:03:42 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-02-05 19:03:42 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-02-05 19:03:42 | [INFO]    | Shard 0 : Received HELLO
+2025-02-05 19:03:42 | [INFO]    | Shard 0 : Received READY
+2025-02-05 19:12:36 | [INFO]    | Discordia 2.13.0
+2025-02-05 19:12:36 | [INFO]    | Connecting to Discord...
+2025-02-05 19:12:37 | [INFO]    | Authenticated as Kansas Roleplay Management#2478
+2025-02-05 19:12:37 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-02-05 19:12:37 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-02-05 19:12:37 | [INFO]    | Shard 0 : Received HELLO
+2025-02-05 19:12:37 | [INFO]    | Shard 0 : Received READY
+2025-02-05 19:23:33 | [INFO]    | Discordia 2.13.0
+2025-02-05 19:23:33 | [INFO]    | Connecting to Discord...
+2025-02-05 19:23:33 | [INFO]    | Authenticated as Kansas Roleplay Management#2478
+2025-02-05 19:23:33 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-02-05 19:23:33 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-02-05 19:23:33 | [INFO]    | Shard 0 : Received HELLO
+2025-02-05 19:23:34 | [INFO]    | Shard 0 : Received READY

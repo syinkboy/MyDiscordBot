@@ -1,25 +1,10 @@
-local discordia = _G.discordia
-local client = _G.client 
-
-local comps = discordia.Components()
-:button{
-    id = 'ping',
-    label = 'Ping!',
-    style = 'danger',
-}
+local discordia = require('discordia')
+local client = discordia.Client()
 
 return {
     name = 'ping',
-    description = 'Replies with pong',
+    description = 'ping!',
     callback = function(message, args)
-        local sent_msg = message:reply({
-            content = 'Pong!',
-            components = comps:raw()
-
-        })
-        local _, interaction = sent_msg:waitComponent('Button')
-        interaction:reply('Ping!', true)
+        message:reply('Png!')
     end
-
-        
 }

@@ -12,7 +12,7 @@ client:enableAllIntents()
 _G.client = client 
 
 local erlua = require("erlua")
-erlua:SetServerKey("sdkZidEzbL-cyDXJyyoAcNIghKZPnLnzCUcyIDQSPHZejuVCpLY")
+erlua:SetServerKey("sbGKCSkqRP-SBfPJXodUXYhyVyJVCHUxlpWcvhIEfjHbYLAZouQ")
 _G.erlua = erlua
 
 local fs = require('fs') -- This module allows us to get information about files, we will use it to get all the files in the commands folder
