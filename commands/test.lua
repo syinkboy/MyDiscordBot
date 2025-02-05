@@ -8,6 +8,8 @@ local comps = discordia.Components()
     style = 'danger',
 }
 
+-- Test
+
 return {
     name = 'Test',
     description = 'Replies with pong',
