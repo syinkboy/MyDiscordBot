@@ -1,9 +1,22 @@
 local discordia = _G.discordia
 
+local authorized = {"995664658038005772", "939213968143183962"}
+
+local function has_perms(id)
+    for _, v in ipairs(authorized) do
+        if v == id then
+            return true
+        end
+    end
+    return false
+end
+
 return {
     name = "infract",
     description = "Direct Message",
     callback = function(message, args)
+        if not has_perms(message.author.id) then
+
         if message.author.bot then return end
 
         print("Received args:", args and table.concat(args, ", ") or "nil")
