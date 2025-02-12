@@ -8,6 +8,9 @@ local client = discordia.Client { -- the client
   cacheAllMembers = true,
 }
 
+local timer = require("timer")
+_G.timer = timer
+
 client:enableAllIntents()
 _G.client = client 
 
@@ -31,6 +34,15 @@ local function loadCommands() -- This function will create a table of all the co
   return commands
 end
 
+------------------------------------------------------------------------------------------------------------------------
+
+local assets = require("assets")
+_G.emojis = assets.emojis
+_G.banners = assets.banners
+_G.colors = assets.colors
+_G.images = assets.images
+
+------------------------------------------------------------------------------------------------------------------------
 local commands = loadCommands()
 _G.commands = commands -- This is also put on a global variable if you ever need it
 
@@ -81,7 +93,7 @@ client:on('messageCreate', function(message) -- Now we go to handling the comman
               end
           else
               print("Error loading module for command: " .. cmd .. " error: ") -- so we can print module here to get the error
-              p(module)
+              print(module)
           end -- That is everything, for questions, ping me in chat
       end
 
