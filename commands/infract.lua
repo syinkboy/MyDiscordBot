@@ -1,37 +1,10 @@
 local discordia = _G.discordia
 
-local allowedRoleId = "1331790180121841664"
-
 return {
     name = "infract",
     description = "Direct Message",
     callback = function(message, args)
         if message.author.bot then return end
-
-        -- Fetch member from the guild
-        local member = message.guild:getMember(message.author.id)
-        if not member then
-            return message:reply("Could not fetch your member data.")
-        end
-
-        -- Debugging: Print all roles the member has
-        print("Roles for user " .. message.author.username .. ":")
-        for role in member.roles:iter() do
-            print("Role ID:", role.id, "Role Name:", role.name)
-        end
-
-        -- Check if the member has the allowed role
-        local hasRole = false
-        for role in member.roles:iter() do
-            if role.id == allowedRoleId then
-                hasRole = true
-                break
-            end
-        end
-
-        if not hasRole then
-            return message:reply("You do not have permission to use this command.")
-        end
 
         -- Process the arguments
         print("Received args:", args and table.concat(args, ", ") or "nil")
