@@ -317,14 +317,8 @@ function TextChannel:send(content)
 			sticker = {Resolver.stickerId(tbl.sticker)}
 		end
 
-                local components
-                if tbl.components then
-                        components = tbl.components
-                end
-
 		data, err = self.client._api:createMessage(self._id, {
 			content = content,
-                        components = components,
 			tts = tbl.tts,
 			nonce = tbl.nonce,
 			embeds = embeds,

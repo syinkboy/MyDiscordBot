@@ -12,7 +12,7 @@ return {
             return message:reply("An error occured trying to get server information: `" .. erlcserver.code .. ":" .. erlcserver.message)
         end
 
-        message:reply("## " .. erlcserver.Name .. "\n> - **Code:** " .. erlcserver.JoinKey .. "\n> **Players In-Game:** " .. erlcserver.CurrentPlayers .. "**/**" .. erlcserver.MaxPlayers)
+        message:reply("## " .. erlcserver.name .. "\n> - **Code:** " .. erlcserver.JoinKey .. "\n> **Players In-Game:** " .. erlcserver.CurrentPlayers .. "**/**" .. erlcserver.MaxPlayers)
     end
-}
 
+}

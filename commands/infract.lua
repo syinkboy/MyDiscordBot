@@ -1,22 +1,9 @@
 local discordia = _G.discordia
 
-local authorized = {"995664658038005772", "939213968143183962"}
-
-local function has_perms(id)
-    for _, v in ipairs(authorized) do
-        if v == id then
-            return true
-        end
-    end
-    return false
-end
-
 return {
     name = "infract",
     description = "Direct Message",
     callback = function(message, args)
-        if not has_perms(message.author.id) then
-
         if message.author.bot then return end
 
         print("Received args:", args and table.concat(args, ", ") or "nil")
@@ -32,29 +19,33 @@ return {
 
         table.remove(args, 1)
 
-        local punishment =  args[1] or "No punishment specified" -- Punishment is the second arguement
+        local punishment = args[1] or "No punishment specified"
 
         table.remove(args, 1)
 
-        local reason = table.concat(args, " ") -- Everything else is the reason
+        local reason = table.concat(args, " ")
 
         print("User:", user.username)
         print("Reason:", reason)
         print("Punishment:", punishment)
 
         local emb = {
-            title = "Infraction Issued",
+            title = "The Los Angeles High Ranking Team has decided to take action against you!",
+            description = "**Please revise our rules and don't do this again.**",
             fields = {
-                { name = "User", value = user.username or "Unknown", inline = true },
-                { name = "Reason", value = reason, inline = true },
-                { name = "Punishment", value = punishment, inline = false }
+                { name = "Punishment", value = punishment, inline = false },
+                { name = "Reason", value = reason, inline = false }
             },
-            color = 0xFF0000,
+            color = 0xFF4500, -- Adjusted color to match the image style
             timestamp = discordia.Date():toISO()
         }
 
-        local success, err = message.channel:send({embed = emb}) -- Keep using your brain
-        
+        local success, err = message.channel:send {
+            content = "<@" .. user.id .. ">", -- Ensures the mention actually triggers
+            embed = emb,
+            allowed_mentions = { users = { user.id } } -- Allows the mention to trigger
+        }
+
         if not success then
             print("[ERROR] Failed to send message:", err)
         end
