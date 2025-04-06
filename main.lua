@@ -56,7 +56,7 @@ local permsTable = {
 }
 
 local function hasPermissions(member, permType)
-  return permType[permType](member)
+  return permsTable[permType](member)
 end
 
 _G.hasPermissions = hasPermissions
