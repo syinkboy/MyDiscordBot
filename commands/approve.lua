@@ -1,13 +1,13 @@
 local discordia = _G.discordia
 
 return {
-    name = "promote",
+    name = "approve",
     description = "Direct Message",
     callback = function(message, args)
         if message.author.bot then return end
 
         if not args or type(args) ~= "table" or #args < 3 then
-            return message:reply("Usage: !promote @user [reason] [Rank]")
+            return message:reply("Usage: !approve @user [reason]")
         end
 
         -- Get first mentioned user
