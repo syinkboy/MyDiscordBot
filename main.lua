@@ -35,6 +35,8 @@ local function loadCommands()
   _G.commands = commands
 end
 
+_G.loadCommands = loadCommands
+
 loadCommands()
 
 ------------------------------------------------------------------------------------------------------------------------
@@ -44,6 +46,20 @@ _G.emojis = assets.emojis
 _G.banners = assets.banners
 _G.colors = assets.colors
 _G.images = assets.images
+
+------------------------------------------------------------------------------------------------------------------------
+
+local permsTable = {
+  ["BOT_DEVELOPER"] = function(member)
+    return member.id == "995664658038005772" or member.id == "782235114858872854"
+  end
+}
+
+local function hasPermissions(member, permType)
+  return permType[permType](member)
+end
+
+_G.hasPermissions = hasPermissions
 
 ------------------------------------------------------------------------------------------------------------------------
 
@@ -74,7 +90,7 @@ client:on('messageCreate', function(message)
       if commands[cmd] then
           local success, module = pcall(require, "./commands/" .. cmd)
           if success and module and module.callback then
-              local success, err = pcall(function() 
+              local success, err = pcall(function()
                 module.callback(message, args)
               end)
 
