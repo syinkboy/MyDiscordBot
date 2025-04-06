@@ -3,6 +3,9 @@
 local discordia = require('discordia') -- discordia
 _G.discordia = discordia -- and we make them GLOBAL
 require("discordia-components")
+local dslash = require("discordia-slash")
+local slashtools = dslash.util.tools()
+_G.slashtools = slashtools
 
 local client = discordia.Client { -- the client
   cacheAllMembers = true,
