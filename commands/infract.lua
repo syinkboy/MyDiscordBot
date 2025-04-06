@@ -1,10 +1,29 @@
 local discordia = _G.discordia
 
+local allowedRoleId = "1331484299970478148"
+
 return {
     name = "infract",
     description = "Direct Message",
     callback = function(message, args)
         if message.author.bot then return end
+
+        local member = message.guild:getMember(message.author.id)
+        if not member then
+            return message:reply("Could not fetch your member data.")
+        end
+
+        local hasRole = false
+        for role in member.roles:iter() do
+            if role.id == allowedRoleId then
+                hasRole = true
+                break
+            end
+        end
+
+        if not hasRole then
+            return message:reply("You do not have permission to use this command.")
+        end
 
         print("Received args:", args and table.concat(args, ", ") or "nil")
 
@@ -36,14 +55,14 @@ return {
                 { name = "Punishment", value = punishment, inline = false },
                 { name = "Reason", value = reason, inline = false }
             },
-            color = 0xFF4500, -- Adjusted color to match the image style
+            color = 0xFF4500,
             timestamp = discordia.Date():toISO()
         }
 
         local success, err = message.channel:send {
-            content = "<@" .. user.id .. ">", -- Ensures the mention actually triggers
+            content = "<@" .. user.id .. ">",
             embed = emb,
-            allowed_mentions = { users = { user.id } } -- Allows the mention to trigger
+            allowed_mentions = { users = { user.id } }
         }
 
         if not success then
