@@ -1,6 +1,6 @@
 local discordia = _G.discordia
 
-local allowedRoleId = "1331484299970478148"
+local allowedRoleId = "1331790180121841664"
 
 return {
     name = "infract",
