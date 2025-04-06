@@ -16,7 +16,7 @@ return {
 
         for _, kill in pairs(kills) do
             if kill and kill.Killed and kill.Killer and kill.Timestamp then
-                tosend = tosend .. "[<t:" .. kill.Timestamp .. ":T>] `" .. kill.Killed .. "` got killed by `" .. kill.Killer .. "`."
+                tosend = tosend .. "\n[<t:" .. kill.Timestamp .. ":T>] `" .. kill.Killed .. "` got killed by `" .. kill.Killer .. "`."
             end
         end
 
