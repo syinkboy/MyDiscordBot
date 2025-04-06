@@ -2,7 +2,6 @@ local discordia = _G.discordia
 
 local allowedRoleId = "1331790180121841664"
 
-
 return {
     name = "approve",
     description = "Direct Message",
@@ -26,23 +25,33 @@ return {
             return message:reply("You do not have permission to use this command.")
         end
 
-        print("Received args:", args and table.concat(args, ", ") or "nil")
-
-        if not args or type(args) ~= "table" or #args < 2 then
-            return message:reply("Usage: !approve @user [reason] ")
-        end
-
         local user = message.mentionedUsers and message.mentionedUsers.first
         if not user then
             return message:reply("Please mention a valid user.")
         end
 
-        -- Remove the mention from args
-        table.remove(args, 1)
+        print("Original args:", args and table.concat(args, ", ") or "nil")
 
-        -- Extract rank (last word), and then reason (everything else)
+        -- Remove all args before the first non-mention word
+        local mentionIndex = nil
+        for i, arg in ipairs(args) do
+            if arg:match("^<@!?.+>$") then
+                mentionIndex = i
+                break
+            end
+        end
+
+        if mentionIndex then
+            table.remove(args, mentionIndex)
+        end
+
+        if #args < 2 then
+            return message:reply("Usage: !approve @user [reason] [rank]")
+        end
+
         local rank = args[#args]
         table.remove(args, #args)
+
         local reason = table.concat(args, " ")
 
         local emb = {
