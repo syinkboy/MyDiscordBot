@@ -1,6 +1,8 @@
 local discordia = _G.discordia
 local client = _G.client 
 
+++ rizzin
+
 return {
     name = 'about',
     description = 'About!',
