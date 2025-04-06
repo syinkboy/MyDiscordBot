@@ -1,1 +1,3 @@
 /deps
+*.log
+token.lua
