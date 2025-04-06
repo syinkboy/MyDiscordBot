@@ -37,11 +37,7 @@ return {
         end 
 
         table.remove(args, 1) -- remove mention
-
         local reason = table.concat(args, ' ')
-
-        print('User:', user.username)
-        print('Reason:', reason)
 
         local emb = {
             title = 'Staff Application Results',
@@ -49,7 +45,7 @@ return {
             fields = {
                 {
                     name = 'Result',
-                    value = 'We are pleased to inform you that you have passed your application. Head to ⁠#training-chat for further instructions.',
+                    value = reason or 'You have passed your application! Please head to ⁠#training-chat for further instructions.',
                     inline = false
                 }
             },
