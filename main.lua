@@ -56,7 +56,7 @@ local function getArgs(inputString) -- Here we have the args function, but I won
   return args
 end
 
-local prefix = "!"
+local prefix = "b!"
 
 client:on('ready', function()
   print('Logged in as '.. client.user.username)
