@@ -1,7 +1,7 @@
 local discordia = _G.discordia
 
 local allowedRoleId = "1357707043602956450"
-local targetChannelId = "1357798046280450218" 
+local targetChannelId = "1357798046280450218"
 
 return {
     name = "infract",
@@ -14,6 +14,13 @@ return {
             return message:reply("Could not fetch your member data.")
         end
 
+        -- Debugging: Print out all roles the member has
+        print("Roles for user " .. message.author.username .. ":")
+        for role in member.roles:iter() do
+            print("Role ID:", role.id, "Role Name:", role.name)
+        end
+
+        -- Check if the member has the allowed role
         local hasRole = false
         for role in member.roles:iter() do
             if role.id == allowedRoleId then
