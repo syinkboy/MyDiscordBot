@@ -1,9 +1,9 @@
 local discordia = require('discordia')
 _G.discordia = discordia 
 require("discordia-components")
-local dslash = require("discordia-slash")
-local slashtools = dslash.util.tools()
-_G.slashtools = slashtools
+-- local dslash = require("discordia-slash")
+-- local slashtools = dslash.util.tools()
+-- _G.slashtools = slashtools
 
 local client = discordia.Client {
   cacheAllMembers = true,
