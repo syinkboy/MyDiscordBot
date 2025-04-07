@@ -41,7 +41,7 @@ return {
 
         local emb = {
             title = 'Staff Application Results',
-            description = 'Hello, ' .. user.username .. '!',
+            description = 'Hello, ' .. user.username .. '!' .. 
             fields = {
                 {
                     name = 'Reason',
