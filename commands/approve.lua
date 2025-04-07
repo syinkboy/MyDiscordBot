@@ -44,7 +44,7 @@ return {
             description = 'Hello, ' .. user.username .. '!',
             fields = {
                 {
-                    name = 'Result',
+                    name = 'Reason',
                     value = reason or 'You have passed your application! Please head to ⁠#training-chat for further instructions.',
                     inline = false
                 }
