@@ -22,7 +22,7 @@ return {
         end
 
         if not hasRole then
-            return message:reply('You do not have permission to use this command.')
+            return message:reply('You do not have the right permissions to use this command.')
         end
 
         print('Received args:', args and table.concat(args, ',') or 'nil')
