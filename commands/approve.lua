@@ -41,7 +41,7 @@ return {
 
         local emb = {
             title = 'Staff Application Results',
-            description = 'Hello, ' .. user.username .. '!' .. 
+            description = 'Hello, ' .. user.username .. '!',
             fields = {
                 {
                     name = 'Reason',
@@ -50,6 +50,9 @@ return {
                 }
             },
             color = 0x50C878,
+            image = {
+                url = "https://cdn.discordapp.com/attachments/1357798123312779365/1359893450983608413/image.png"
+            },
             timestamp = discordia.Date():toISO()
         }
 

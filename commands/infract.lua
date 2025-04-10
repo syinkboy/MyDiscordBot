@@ -54,3 +54,26 @@ return {
         end
     end
 }
+
+
+local discorida = _G.discordia 
+
+return {
+    name = 'Promote',
+    description = 'Promote a user',
+    callback = function(message, args)
+        if message.author.bot then return end
+
+        print('Received args:', args and table.concat(args, ',') or 'nil')
+
+        if not args or type(args)  ~= 'table' or #args < 2 then
+            return message:reply('Usage: b!promote @user [Reason] [Rank]')
+        end
+
+        loca user = message.mentionedUsers and message.mentionedUsers.first 
+        if not user then 
+            return message:reply('Please mention a valid user.')
+        end
+
+        
+}
