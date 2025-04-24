@@ -31,10 +31,10 @@ return {
             return message:reply('Usage: b!approve @user [Reason]')
         end
 
-        local user = message.mentionedUsers and message.mentionedUsers.first
+        local user = message.mentionedUsers and message.mentionedUsers:first()
         if not user then
             return message:reply('Please mention a valid user.')
-        end 
+        end
 
         table.remove(args, 1) -- remove mention
         local reason = table.concat(args, ' ')
@@ -42,16 +42,16 @@ return {
         local emb = {
             title = 'Staff Application Results',
             description = 'Hello, ' .. user.username .. '!',
+            color = 0x50C878,
             fields = {
                 {
                     name = 'Reason',
-                    value = reason or 'You have passed your application! Please head to ⁠#training-chat for further instructions.',
+                    value = reason ~= "" and reason or 'You have passed your application! Please head to ⁠#training-chat for further instructions.',
                     inline = false
                 }
             },
-            color = 0x50C878,
             image = {
-                url = "https://cdn.discordapp.com/attachments/1357798123312779365/1359893450983608413/image.png"
+                url = 'https://cdn.discordapp.com/attachments/1357798123312779365/1359893450983608413/image.png'
             },
             timestamp = discordia.Date():toISO()
         }
@@ -59,7 +59,9 @@ return {
         local success, err = message.channel:send {
             content = '<@' .. user.id .. '>',
             embed = emb,
-            allowed_mentions = { users = { user.id } }
+            allowed_mentions = {
+                users = { user.id }
+            }
         }
 
         if not success then
