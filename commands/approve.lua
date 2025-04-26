@@ -1,18 +1,20 @@
 local discordia = _G.discordia
 
-local allowedRoleId = '1357707043602956450'
+local allowedRoleId = '1357707043602956450' -- <<< your allowed role ID here
 
 return {
-    name = 'approve',
-    description = 'Approve a user',
-    callback = function(message, args)
+    name = "approve",
+    description = "Approve a staff application and send a nice embed.",
+    run = function(self, message, args)
         if message.author.bot then return end
 
+        -- Fetch the member from the guild
         local member = message.guild:getMember(message.author.id)
         if not member then
-            return message:reply('I could not fetch your member data.')
+            return message:reply('❌ I could not fetch your member data.')
         end
 
+        -- Check if member has the allowed role
         local hasRole = false
         for role in member.roles:iter() do
             if role.id == allowedRoleId then
@@ -22,50 +24,55 @@ return {
         end
 
         if not hasRole then
-            return message:reply('You do not have the right permissions to use this command.')
+            return message:reply('🚫 You do not have the right permissions to use this command.')
         end
 
-        print('Received args:', args and table.concat(args, ',') or 'nil')
-
-        if not args or type(args) ~= 'table' or #args < 2 then
-            return message:reply('Usage: b!approve @user [Reason]')
+        -- Check if a user is mentioned
+        local mentionedUser = message.mentionedUsers.first
+        if not mentionedUser then
+            return message:reply("❌ You need to mention the user you are approving!\nExample: `b!approve @user Good application`")
         end
 
-        local user = message.mentionedUsers and message.mentionedUsers:first()
-        if not user then
-            return message:reply('Please mention a valid user.')
+        -- Remove the mention from args to get the reason
+        table.remove(args, 1)
+        local reason = table.concat(args, " ")
+
+        if reason == "" then
+            message:reply("❌ You need to provide a reason!\nExample: `b!approve @user Good application`")
+            return
         end
 
-        table.remove(args, 1) -- remove mention
-        local reason = table.concat(args, ' ')
-
-        local emb = {
-            title = 'Staff Application Results',
-            description = 'Hello, ' .. user.username .. '!',
-            color = 0x50C878,
+        -- Build the embed
+        local embed = {
+            title = "Staff Application Results",
+            description = string.format("Hello, <@%s>\n\nWe are pleased to inform you that you have passed your application. Head to <#1331484304584347699> for further instructions. :)", mentionedUser.id),
             fields = {
                 {
-                    name = 'Reason',
-                    value = reason ~= "" and reason or 'You have passed your application! Please head to ⁠#training-chat for further instructions.',
-                    inline = false
+                    name = "Reason:",
+                    value = reason
                 }
             },
             image = {
-                url = 'https://cdn.discordapp.com/attachments/1357798123312779365/1359893450983608413/image.png'
+                url = "https://your-image-link.com/accepted-image.png" -- <<< your image link
             },
-            timestamp = discordia.Date():toISO()
+            footer = {
+                text = string.format("Reviewed by %s • %s", message.author.username, os.date("%m/%d/%Y %I:%M %p"))
+            },
+            color = 0x00ff00 -- Green
         }
 
-        local success, err = message.channel:send {
-            content = '<@' .. user.id .. '>',
-            embed = emb,
-            allowed_mentions = {
-                users = { user.id }
+        -- Send the embed safely
+        local success, err = pcall(function()
+            message.channel:send {
+                embed = embed
             }
-        }
+        end)
 
-        if not success then
-            print('[ERROR] Failed to send message:', err)
+        if success then
+            print("[Approve] ✅ Sent approval embed for " .. mentionedUser.username)
+        else
+            print("[Approve] ❌ Failed to send approval embed:", err)
+            message:reply("❌ Failed to send approval embed:\n```" .. tostring(err) .. "```")
         end
     end
 }
