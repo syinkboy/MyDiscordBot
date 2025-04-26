@@ -53,7 +53,7 @@ return {
                 }
             },
             image = {
-                url = "https://your-image-link.com/accepted-image.png" -- <<< your image link
+                url = "https://pixabay.com/photos/automobile-defect-broken-car-wreck-62827/" -- <<< your image link
             },
             footer = {
                 text = string.format("Reviewed by %s • %s", message.author.username, os.date("%m/%d/%Y %I:%M %p"))
