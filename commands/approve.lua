@@ -28,7 +28,7 @@ return {
         end
 
         -- Check if a user is mentioned
-        local mentionedUser = message.mentionedUsers.first
+        local mentionedUser = message.mentionedUsers[1]  -- Fixed line: accessing the first mentioned user
         if not mentionedUser then
             return message:reply("❌ You need to mention the user you are approving!\nExample: `b!approve @user Good application`")
         end
