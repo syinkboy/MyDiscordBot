@@ -5,21 +5,6 @@ require("discordia-components")
 -- local slashtools = dslash.util.tools()
 -- _G.slashtools = slashtools
 
-local function globalErrorHandler(err)
-  print("----- ERROR CAUGHT -----")
-  print(tostring(err))
-  print("------------------------")
-end
-
-client:on("error", function(err)
-  globalErrorHandler(err)
-end)
-
-client:on("warn", function(warning)
-  print("⚠️ Warning: ", tostring(warning))
-end)
-
-
 local client = discordia.Client {
   cacheAllMembers = true,
 }
