@@ -6,14 +6,14 @@ return {
     callback = function(message, args)
         if message.author.bot then return end
 
-        -- Process the arguments
         print("Received args:", args and table.concat(args, ", ") or "nil")
 
         if not args or type(args) ~= "table" or #args < 3 then
-            return message:reply("Usage: !infract @user [reason] [punishment]")
+            return message:reply("Usage: b!infract @user [punishment] [reason]")
         end
 
-        local user = message.mentionedUsers and message.mentionedUsers.first
+        -- Get the mentioned user (Discordia v2+)
+        local user = message.mentionedUsers and message.mentionedUsers.first and message.mentionedUsers:first()
         if not user then
             return message:reply("Please mention a valid user.")
         end
@@ -30,7 +30,6 @@ return {
         print("Reason:", reason)
         print("Punishment:", punishment)
 
-        -- Create the embed
         local emb = {
             title = "The Los Angeles High Ranking Team has decided to take action against you!",
             description = "**Please revise our rules and don't do this again.**",
@@ -42,7 +41,6 @@ return {
             timestamp = discordia.Date():toISO()
         }
 
-        -- Send the message in the same channel
         local success, err = message.channel:send {
             content = "<@" .. user.id .. ">",
             embed = emb,
@@ -54,4 +52,3 @@ return {
         end
     end
 }
-

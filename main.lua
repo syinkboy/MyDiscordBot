@@ -15,9 +15,7 @@ _G.timer = timer
 client:enableAllIntents()
 _G.client = client 
 
-local erlua = require("erlua")
-erlua:SetServerKey("sbGKCSkqRP-SBfPJXodUXYhyVyJVCHUxlpWcvhIEfjHbYLAZouQ")
-_G.erlua = erlua
+
 
 local fs = require('fs')
 _G.fs = fs
